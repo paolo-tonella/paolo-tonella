@@ -1,0 +1,115 @@
+(function() {
+  var app = angular.module('papers', ['ngRoute']);
+
+  angular.module("papers").filter("isNotArray", function() {
+        return function(input) {
+            return angular.isDefined(input) && !angular.isArray(input);
+        };
+  });
+
+  angular.module("papers").filter("isArray", function() {
+        return function(input) {
+            return angular.isDefined(input) && angular.isArray(input);
+        };
+  });
+
+  app.controller('PanelController', ['$scope', '$location', 
+    function($scope, $location) {
+		this.tab = 1;
+		
+		this.selectTab = function(setTab) {
+			this.tab = setTab;
+			if (setTab === 1) {
+				$location.path('/');
+			}
+			if (setTab === 2) {
+				$location.path('papersbyyear');
+			}
+			if (setTab === 3) {
+				$location.path('papersbytype');
+			}
+			if (setTab === 4) {
+				$location.path('papersbycoauthor/0');
+			}
+		};
+		this.isSelected = function(checkTab) {
+			return this.tab === checkTab;
+		};
+  }]);
+
+  app.controller('PaperController', ['$http', '$scope', '$routeParams', 
+    function($http, $scope, $routeParams) {
+		$scope.pub = {papers: []};
+		$scope.coauthors = [];
+		$scope.coauthor = $routeParams.coauthor;
+		$scope.selectedPapers = [];
+
+		if ($scope.pub.papers.length == 0) {
+		   $http.get('http://localhost/~tonella/mysite/Tonella-Paolo.xml', {
+		   //$http.get('http://selab.fbk.eu/tonella/Tonella-Paolo.xml', {
+			 transformResponse: function(response) {
+				var x2js = new X2JS();
+                var json = x2js.xml_str2json(response);
+                return x2js.asArray(json.dblpperson.r);
+			 }		
+		  }).then(function(response) {
+			 $scope.pub.papers = response.data;
+			 if ($scope.coauthor != "") {
+				var i = 0, j = 0;
+				for (i = 0 ; i < $scope.pub.papers.length ; i++) {
+					for (j = 0 ; (typeof $scope.pub.papers[i].book != "undefined") && 
+								  j < $scope.pub.papers[i].book.author.length ; j++) {
+						if ($scope.pub.papers[i].book.author[j] == $scope.coauthor) {
+							$scope.selectedPapers.push($scope.pub.papers[i]);
+						}
+					}
+					for (j = 0 ; (typeof $scope.pub.papers[i].article != "undefined") && 
+								  j < $scope.pub.papers[i].article.author.length ; j++) {
+						if ($scope.pub.papers[i].article.author[j] == $scope.coauthor) {
+							$scope.selectedPapers.push($scope.pub.papers[i]);
+						}
+					}
+					for (j = 0 ; (typeof $scope.pub.papers[i].inproceedings != "undefined") && 
+								  j < $scope.pub.papers[i].inproceedings.author.length ; j++) {
+						if ($scope.pub.papers[i].inproceedings.author[j] == $scope.coauthor) {
+							$scope.selectedPapers.push($scope.pub.papers[i]);
+						}
+					}
+				}
+			}			 
+		  });
+		}
+		if ($scope.coauthors.length == 0) {
+		   $http.get('http://localhost/~tonella/mysite/Tonella-Paolo.xml', {
+		   //$http.get('http://selab.fbk.eu/tonella/Tonella-Paolo.xml', {
+			 transformResponse: function(response) {
+				var x2js = new X2JS();
+                var json = x2js.xml_str2json(response);
+                return x2js.asArray(json.dblpperson.coauthors.co);
+			 }		
+		  }).then(function(response) {
+			 $scope.coauthors = response.data;
+		  });
+		}
+  }]);
+	
+  app.config(['$routeProvider', function($routeProvider) { 
+    $routeProvider.when('/', {
+       controller: 'PanelController', 
+       templateUrl: 'selectedpapers.html' 
+    }).when('/papersbytype', {
+       controller: 'PaperController', 
+       templateUrl: 'papersbytype.html' 
+    }).when('/papersbyyear', {
+       controller: 'PaperController', 
+       templateUrl: 'papersbyyear.html' 
+    }).when('/papersbycoauthor/:coauthor', {
+       controller: 'PaperController', 
+       templateUrl: 'papersbycoauthor.html' 
+    }).otherwise({
+       controller: 'PanelController', 
+       templateUrl: 'selectedpapers.html'     
+    });
+  }]); 
+
+})();

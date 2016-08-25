@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html ng-app="papers">
+<head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="deckgrid.css" />
+	<title> Paolo Tonella </title>
+</head>
+<body>
+	<h1> Paolo Tonella </h1>
+<img align="left" src="tonella-img.jpg" width="220px" style="margin:5px 5px"> </img> 
+Paolo Tonella is Head of <a href="http://se.fbk.eu">Software Engineering</a> at 
+<a href="http://www.fbk.eu">Fondazione Bruno Kessler</a>, Trento, Italy and is 
+<a href="http://crest.cs.ucl.ac.uk/people/">Honorary Professor</a> at 
+<a href="http://www.ucl.ac.uk">University College London</a>, UK.
+Paolo Tonella wrote over 150 peer reviewed conference papers and over 50 journal papers. 
+His H-index (according to 
+<a href="https://scholar.google.com/citations?user=6n3gAUMAAAAJ"> Google scholar</a>) is 46. 
+He is in the editorial board of the 
+<a href="http://www.computer.org/web/tse/about">IEEE Transactions on Software Engineering</a>, 
+of <a href="http://www.springer.com/computer/swe/journal/10664/PSE?detailsPage=editorialBoard">
+Empirical Software Engineering</a>, Springer, and
+of the <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481/homepage/EditorialBoard.html">
+Journal of Software: Evolution and Process</a>, Wiley.
+Paolo Tonella teaches <a href="https://sites.google.com/site/sectestunitn/">Security Testing</a> at the 
+<a href="http://www.unitn.it">University of Trento, 
+<a href="http://web.unitn.it/en/scienze/6859/master-science-computer-science">MSc degree in Computer Science</a>. <br/>
+
+Paolo Tonella has given foundational contributions to Software Engineering, in the area of 
+code analysis and testing. His ICSE 
+<a href="http://www.sigsoft.org/awards/icseMIPAward.html">Most Influential Paper (MIP)</a> award winning paper, 
+<a href="http://dx.doi.org/10.1109/ICSE.2001.919078">Analysis and Testing of Web Applications</a>, initiated a 
+new stream of research devoted to the development of testing techniques for web applications. 
+His comprehensive book 
+<a href="http://dx.doi.org/10.1007/b102522">Reverse Engineering of Object-Oriented Code</a> laid 
+the foundations for the reverse engineering of object-oriented systems. 
+His ISSTA 2004 paper 
+<a href="http://doi.acm.org/10.1145/1007512.1007528">Evolutionary Testing of Classes</a> 
+is recognized as a milestone for the automated generation of object oriented test cases. 
+One of the most widely used Java test case generators, <a href="http://www.evosuite.org">EvoSuite</a>, 
+can be traced back to this seminal ISSTA paper and to the associated tool, eToc.
+In June 2014, Paolo Tonella has given a distinguished lecture on 
+<a href="https://www.youtube.com/watch?v=TnuiEGS6iyc">Model Based Testing</a> at the University of Luxembourg. 
+More details about Paolo Tonella are available in his <a href="cv-feb-2015.pdf">Curriculum Vitae</a>.
+
+    <br clear="all" />
+    <section ng-controller="PanelController as panel">
+			<ul class="nav nav-pills">
+				<li ng-class="{ active:panel.isSelected(1) }"> 
+					<a href ng-click="panel.selectTab(1)"> Selected papers </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(2) }"> 
+					<a href ng-click="panel.selectTab(2)"> Papers by year </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(3) }"> 
+					<a href ng-click="panel.selectTab(3)"> Papers by type </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(4) }"> 
+					<a href ng-click="panel.selectTab(4)"> Papers by co-author </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(5) }"> 
+					<a href ng-click="panel.selectTab(5)"> Projects </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(6) }"> 
+					<a href ng-click="panel.selectTab(6)"> Tools </a> 
+				</li>
+				<li ng-class="{ active:panel.isSelected(7) }"> 
+					<a href ng-click="panel.selectTab(7)"> Photos </a> 
+				</li>
+			</ul>
+	</section>
+	<div ng-controller="ParentController"><div ng-view> </div></div>
+	<script type="text/javascript" src="angular.min.js"></script>
+	<script type="text/javascript" src="angular-route.js"></script>
+	<script type="text/javascript" src="xml2json.min.js"></script>
+	<script type="text/javascript" src="angular-deckgrid.min.js"></script>
+	<script type="text/javascript" src="app.js"></script>
+</body>
+</html>

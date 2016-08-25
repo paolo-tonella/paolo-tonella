@@ -1,0 +1,31 @@
+	<h3 ng-controller="PaperController"> Papers by year </h3>
+	<ul class="list-group">
+	    <div ng-repeat="year in [2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001, 2000, 1999, 1998, 1997, 1996, 1995, 1993]">
+		<h3>Year {{year}}</h3>
+		<li ng-if="paper.book && paper.book.year == year" class="list-group-item" ng-repeat="paper in pub.papers">
+			<i ng-repeat="author in paper.book.author"> {{author}}, </i>
+			<i ng-show="{{paper.book.author | isNotArray}}"> {{paper.book.author}}, </i>
+			<b> {{paper.book.title}}. </b> {{paper.book.publisher}},
+			<a href="{{paper.book.ee}}"> DOI,</a>
+			{{paper.book.year}}
+		</li>
+		<li ng-if="paper.article && paper.article.year == year" class="list-group-item" ng-repeat="paper in pub.papers">
+			<i ng-repeat="author in paper.article.author"> {{author}}, </i>
+			<i ng-show="{{paper.article.author | isNotArray}}"> {{paper.article.author}}, </i>
+			<b> {{paper.article.title}} </b>
+			{{paper.article.journal}}, vol. {{paper.article.volume}},
+			n. {{paper.article.number}}, pp. {{paper.article.pages}},
+			<a href="{{paper.article.ee}}"> DOI,</a>
+			{{paper.article.year}}
+		</li>
+		<li ng-if="paper.inproceedings && paper.inproceedings.year == year" class="list-group-item" ng-repeat="paper in pub.papers">
+			<i ng-repeat="author in paper.inproceedings.author"> <i ng-show="{{author | isValidAuthor}}"> {{author}}, </i></i>
+			<i ng-show="{{paper.inproceedings.author | isNotArray}}"> {{paper.inproceedings.author}}, </i>
+			<b> {{paper.inproceedings.title}} </b>
+			{{paper.inproceedings.booktitle}}, pp. {{paper.inproceedings.pages}},
+			<a ng-show="{{paper.inproceedings.ee | isNotArray}}" href="{{paper.inproceedings.ee}}"> DOI,</a>
+			<a ng-show="{{paper.inproceedings.ee | isArray}}" href="{{paper.inproceedings.ee[0]}}"> DOI,</a>
+			{{paper.inproceedings.year}}
+		</li>
+	    </div>
+	</ul>

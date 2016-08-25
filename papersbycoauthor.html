@@ -1,0 +1,34 @@
+	<h3 ng-controller="PaperController"> Papers by co-author </h3>
+	<span ng-repeat="co in coauthors">
+	<span ng-show="{{co.na | isFirstAuthorValid}}">
+		<a ng-show="{{co.na | isNotArray}}" 
+			href = "#/papersbycoauthor/{{co.na.__text}}"> {{co.na.__text}} </a>
+		<a ng-show="{{co.na | isArray}}" 
+			href = "#/papersbycoauthor/{{co.na[0].__text}}"> {{co.na[0].__text}} </a>
+	</span>
+	</span>
+		<li ng-if="paper.book" class="list-group-item" ng-repeat="paper in selectedPapers">
+			<i ng-repeat="author in paper.book.author"> {{author}}, </i>
+			<i ng-show="{{paper.book.author | isNotArray}}"> {{paper.book.author}}, </i>
+			<b> {{paper.book.title}}. </b> {{paper.book.publisher}},
+			<a href="{{paper.book.ee}}"> DOI,</a>
+			{{paper.book.year}}
+		</li>
+		<li ng-if="paper.article" class="list-group-item" ng-repeat="paper in selectedPapers">
+			<i ng-repeat="author in paper.article.author"> {{author}}, </i>
+			<i ng-show="{{paper.article.author | isNotArray}}"> {{paper.article.author}}, </i>
+			<b> {{paper.article.title}} </b>
+			{{paper.article.journal}}, vol. {{paper.article.volume}},
+			n. {{paper.article.number}}, pp. {{paper.article.pages}},
+			<a href="{{paper.article.ee}}"> DOI,</a>
+			{{paper.article.year}}
+		</li>
+		<li ng-if="paper.inproceedings" class="list-group-item" ng-repeat="paper in selectedPapers">
+			<i ng-repeat="author in paper.inproceedings.author"> <i ng-show="{{author | isValidAuthor}}"> {{author}}, </i></i>
+			<i ng-show="{{paper.inproceedings.author | isNotArray}}"> {{paper.inproceedings.author}}, </i>
+			<b> {{paper.inproceedings.title}} </b>
+			{{paper.inproceedings.booktitle}}, pp. {{paper.inproceedings.pages}},
+			<a ng-show="{{paper.inproceedings.ee | isNotArray}}" href="{{paper.inproceedings.ee}}"> DOI,</a>
+			<a ng-show="{{paper.inproceedings.ee | isArray}}" href="{{paper.inproceedings.ee[0]}}"> DOI,</a>
+			{{paper.inproceedings.year}}
+		</li>

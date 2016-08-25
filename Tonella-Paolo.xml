@@ -1,0 +1,3183 @@
+<?xml version="1.0"?>
+<dblpperson name="Paolo Tonella" n="213">
+<person key="homepages/54/2734" mdate="2016-06-21">
+<author>Paolo Tonella</author>
+<url>http://selab.fbk.eu/tonella/</url>
+<url>https://scholar.google.com/citations?user=6n3gAUMAAAAJ</url>
+<url>http://dl.acm.org/author_page.cfm?id=81100462032</url>
+<url>http://orcid.org/0000-0003-3088-0339</url>
+</person>
+<r><article key="journals/ac/LeottaCRT16" mdate="2016-03-21">
+<author>Maurizio Leotta</author>
+<author>Diego Clerissi</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Chapter Five - Approaches and Tools for Automated End-to-End Web Testing.</title>
+<pages>193-237</pages>
+<year>2016</year>
+<volume>101</volume>
+<journal>Advances in Computers</journal>
+<ee>http://dx.doi.org/10.1016/bs.adcom.2015.11.007</ee>
+<url>db/journals/ac/ac101.html#LeottaCRT16</url>
+</article>
+</r>
+<r><article key="journals/smr/LeottaSRT16" mdate="2016-04-11">
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Robula+: an algorithm for generating robust XPath locators for web testing.</title>
+<pages>177-204</pages>
+<year>2016</year>
+<volume>28</volume>
+<journal>Journal of Software: Evolution and Process</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1002/smr.1771</ee>
+<url>db/journals/smr/smr28.html#LeottaSRT16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icst/HammoudiRT16" mdate="2016-07-26">
+<author>Mouna Hammoudi</author>
+<author>Gregg Rothermel</author>
+<author>Paolo Tonella</author>
+<title>Why do Record/Replay Tests of Web Applications Break?</title>
+<pages>180-190</pages>
+<year>2016</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2016.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2016.16</ee>
+<crossref>conf/icst/2016</crossref>
+<url>db/conf/icst/icst2016.html#HammoudiRT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/StoccoLRT16" mdate="2016-05-25">
+<author>Andrea Stocco</author>
+<author>Maurizio Leotta</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Clustering-Aided Page Object Generation for Web Testing.</title>
+<pages>132-151</pages>
+<year>2016</year>
+<booktitle>ICWE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-38791-8_8</ee>
+<crossref>conf/icwe/2016</crossref>
+<url>db/conf/icwe/icwe2016.html#StoccoLRT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/StoccoLRT16a" mdate="2016-05-25">
+<author>Andrea Stocco</author>
+<author>Maurizio Leotta</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Automatic Page Object Generation with APOGEN.</title>
+<pages>533-537</pages>
+<year>2016</year>
+<booktitle>ICWE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-38791-8_42</ee>
+<crossref>conf/icwe/2016</crossref>
+<url>db/conf/icwe/icwe2016.html#StoccoLRT16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/JahangirovaCHT16" mdate="2016-07-14">
+<author>Gunel Jahangirova</author>
+<author>David Clark</author>
+<author>Mark Harman</author>
+<author>Paolo Tonella</author>
+<title>Test oracle assessment and improvement.</title>
+<pages>247-258</pages>
+<year>2016</year>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/2931037.2931062</ee>
+<crossref>conf/issta/2016</crossref>
+<url>db/conf/issta/issta2016.html#JahangirovaCHT16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/refsq/PitangueiraTSMB16" mdate="2016-03-04">
+<author>Ant&#244;nio Mauricio Pitangueira</author>
+<author>Paolo Tonella</author>
+<author>Angelo Susi</author>
+<author>Rita Suzana Pitangueira Maciel</author>
+<author>M&#225;rcio de Oliveira Barros</author>
+<title>Risk-Aware Multi-stakeholder Next Release Planning Using Multi-objective Optimization.</title>
+<pages>3-18</pages>
+<year>2016</year>
+<booktitle>REFSQ</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-30282-9_1</ee>
+<crossref>conf/refsq/2016</crossref>
+<url>db/conf/refsq/refsq2016.html#PitangueiraTSMB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/AbebeT15" mdate="2015-01-06">
+<author>Surafel Lemma Abebe</author>
+<author>Paolo Tonella</author>
+<title>Extraction of domain concepts from the source code.</title>
+<pages>680-706</pages>
+<year>2015</year>
+<volume>98</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>http://dx.doi.org/10.1016/j.scico.2014.09.012</ee>
+<url>db/journals/scp/scp98.html#AbebeT15</url>
+</article>
+</r>
+<r><article key="journals/tosem/CeccatoMMNT15" mdate="2015-12-28">
+<author>Mariano Ceccato</author>
+<author>Alessandro Marchetto</author>
+<author>Leonardo Mariani</author>
+<author>Cu D. Nguyen</author>
+<author>Paolo Tonella</author>
+<title>Do Automatically Generated Test Cases Make Debugging Easier? An Experimental Assessment of Debugging Effectiveness and Efficiency.</title>
+<pages>5</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/2768829</ee>
+<url>db/journals/tosem/tosem25.html#CeccatoMMNT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/TonellaT15" mdate="2016-05-03">
+<author>Paolo Tonella</author>
+<author>Roberto Tiella</author>
+<title>Weekly Round Trips from Norms to Requirements and Tests: An Industrial Experience Report.</title>
+<pages>20-26</pages>
+<year>2015</year>
+<booktitle>RET@ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/RET.2015.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RET.2015.12</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2820711</ee>
+<crossref>conf/icse/2015ret</crossref>
+<url>db/conf/icse/ret2015.html#TonellaT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/PanichellaKT15" mdate="2016-05-03">
+<author>Annibale Panichella</author>
+<author>Fitsum Meshesha Kifetew</author>
+<author>Paolo Tonella</author>
+<title>Results for EvoSuite - MOSA at the Third Unit Testing Tool Competition.</title>
+<pages>28-31</pages>
+<year>2015</year>
+<booktitle>SBST@ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/SBST.2015.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBST.2015.14</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2821348</ee>
+<crossref>conf/icse/2015sbst</crossref>
+<url>db/conf/icse/sbst2015.html#PanichellaKT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/LeottaSRT15" mdate="2016-05-03">
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Meta-heuristic Generation of Robust XPath Locators for Web Testing.</title>
+<pages>36-39</pages>
+<year>2015</year>
+<booktitle>SBST@ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/SBST.2015.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SBST.2015.16</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2821351</ee>
+<crossref>conf/icse/2015sbst</crossref>
+<url>db/conf/icse/sbst2015.html#LeottaSRT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/StoccoLRT15" mdate="2016-05-03">
+<author>Andrea Stocco</author>
+<author>Maurizio Leotta</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Why Creating Web Page Objects Manually If It Can Be Done Automatically?</title>
+<pages>70-74</pages>
+<year>2015</year>
+<booktitle>AST@ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/AST.2015.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AST.2015.26</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2819283</ee>
+<crossref>conf/icse/2015ast</crossref>
+<url>db/conf/icse/ast2015.html#StoccoLRT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/LeottaSRT15" mdate="2015-05-12">
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Using Multi-Locators to Increase the Robustness of Web Test Cases.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2015.7102611</ee>
+<crossref>conf/icst/2015</crossref>
+<url>db/conf/icst/icst2015.html#LeottaSRT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/PanichellaKT15" mdate="2015-05-12">
+<author>Annibale Panichella</author>
+<author>Fitsum Meshesha Kifetew</author>
+<author>Paolo Tonella</author>
+<title>Reformulating Branch Coverage as a Many-Objective Optimization Problem.</title>
+<pages>1-10</pages>
+<year>2015</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2015.7102604</ee>
+<crossref>conf/icst/2015</crossref>
+<url>db/conf/icst/icst2015.html#PanichellaKT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/LeottaSRT15" mdate="2015-07-21">
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Automated generation of visual web tests from DOM-based web tests.</title>
+<pages>775-782</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/2695664.2695847</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#LeottaSRT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/Carzaniga15" mdate="2016-03-15">
+<author>Antonio Carzaniga</author>
+<author>Alberto Goffi</author>
+<author>Alessandra Gorla</author>
+<author>Andrea Mattavelli</author>
+<author>Nicol&#242; Perino</author>
+<author>Mauro Pezz&#232;</author>
+<author>Paolo Tonella</author>
+<title>Intrinsic software redundancy for self-healing software systems, automated oracle generation.</title>
+<pages>129-130</pages>
+<year>2015</year>
+<booktitle>Software Engineering &#38; Management</booktitle>
+<crossref>conf/se/2015</crossref>
+<url>db/conf/se/se2015.html#Carzaniga15</url>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings239/article41.html</ee>
+</inproceedings>
+</r>
+<r><article key="journals/ac/TonellaRM14" mdate="2014-03-24">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Alessandro Marchetto</author>
+<title>Recent Advances in Web Testing.</title>
+<pages>1-51</pages>
+<year>2014</year>
+<volume>93</volume>
+<journal>Advances in Computers</journal>
+<ee>http://dx.doi.org/10.1016/B978-0-12-800162-2.00001-4</ee>
+<url>db/journals/ac/ac93.html#TonellaRM14</url>
+</article>
+</r>
+<r><article key="journals/ese/CeccatoPFRTT14" mdate="2014-05-20">
+<author>Mariano Ceccato</author>
+<author>Massimiliano Di Penta</author>
+<author>Paolo Falcarin</author>
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<title>A family of experiments to assess the effectiveness and efficiency of source code obfuscation techniques.</title>
+<pages>1040-1074</pages>
+<year>2014</year>
+<volume>19</volume>
+<journal>Empirical Software Engineering</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1007/s10664-013-9248-x</ee>
+<url>db/journals/ese/ese19.html#CeccatoPFRTT14</url>
+</article>
+</r>
+<r><article key="journals/smr/MediniAPAGT14" mdate="2015-01-12">
+<author>Soumaya Medini</author>
+<author>Venera Arnaoudova</author>
+<author>Massimiliano Di Penta</author>
+<author>Giuliano Antoniol</author>
+<author>Yann-Ga&#235;l Gu&#233;h&#233;neuc</author>
+<author>Paolo Tonella</author>
+<title>SCAN: an approach to label and relate execution trace segments.</title>
+<pages>962-995</pages>
+<year>2014</year>
+<volume>26</volume>
+<journal>Journal of Software: Evolution and Process</journal>
+<number>11</number>
+<ee>http://dx.doi.org/10.1002/smr.1695</ee>
+<url>db/journals/smr/smr26.html#MediniAPAGT14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ccs/TonellaCSC14" mdate="2014-11-10">
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<author>Bjorn De Sutter</author>
+<author>Bart Coppens</author>
+<title>POSTER: A Measurement Framework to Quantify Software Protections.</title>
+<pages>1505-1507</pages>
+<year>2014</year>
+<booktitle>ACM Conference on Computer and Communications Security</booktitle>
+<ee>http://doi.acm.org/10.1145/2660267.2662360</ee>
+<crossref>conf/ccs/2014</crossref>
+<url>db/conf/ccs/ccs2014.html#TonellaCSC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/VosTPKBHS14" mdate="2015-04-15">
+<author>Tanja E. J. Vos</author>
+<author>Paolo Tonella</author>
+<author>Wishnu Prasetya</author>
+<author>Peter M. Kruse</author>
+<author>Alessandra Bagnato</author>
+<author>Mark Harman</author>
+<author>Onn Shehory</author>
+<title>FITTEST: A new continuous and automated testing process for future Internet applications.</title>
+<pages>407-410</pages>
+<year>2014</year>
+<booktitle>CSMR-WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR-WCRE.2014.6747206</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR-WCRE.2014.6747206</ee>
+<crossref>conf/csmr/2014</crossref>
+<url>db/conf/csmr/csmr2014.html#VosTPKBHS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TonellaTN14" mdate="2014-05-18">
+<author>Paolo Tonella</author>
+<author>Roberto Tiella</author>
+<author>Duy Cu Nguyen</author>
+<title>Interpolated n-grams for model based testing.</title>
+<pages>562-572</pages>
+<year>2014</year>
+<booktitle>ICSE</booktitle>
+<ee>http://doi.acm.org/10.1145/2568225.2568242</ee>
+<crossref>conf/icse/2014</crossref>
+<url>db/conf/icse/icse2014.html#TonellaTN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/FrancescomarinoTGT14" mdate="2014-10-13">
+<author>Chiara Di Francescomarino</author>
+<author>Roberto Tiella</author>
+<author>Chiara Ghidini</author>
+<author>Paolo Tonella</author>
+<title>A Multi-objective Approach to Business Process Repair.</title>
+<pages>32-46</pages>
+<year>2014</year>
+<booktitle>ICSOC</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-662-45391-9_3</ee>
+<crossref>conf/icsoc/2014</crossref>
+<url>db/conf/icsoc/icsoc2014.html#FrancescomarinoTGT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/KifetewJTOT14" mdate="2014-08-05">
+<author>Fitsum Meshesha Kifetew</author>
+<author>Wei Jin</author>
+<author>Roberto Tiella</author>
+<author>Alessandro Orso</author>
+<author>Paolo Tonella</author>
+<title>Reproducing Field Failures for Programs with Complex Grammar-Based Input.</title>
+<pages>163-172</pages>
+<year>2014</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2014.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2014.29</ee>
+<crossref>conf/icst/2014</crossref>
+<url>db/conf/icst/icst2014.html#KifetewJTOT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/LeottaCRT14" mdate="2014-09-17">
+<author>Maurizio Leotta</author>
+<author>Diego Clerissi</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Visual vs. DOM-Based Web Locators: An Empirical Study.</title>
+<pages>322-340</pages>
+<year>2014</year>
+<booktitle>ICWE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-08245-5_19</ee>
+<crossref>conf/icwe/2014</crossref>
+<url>db/conf/icwe/icwe2014.html#LeottaCRT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/LeottaSRT14" mdate="2015-04-28">
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Reducing Web Test Cases Aging by Means of Robust XPath Locators.</title>
+<pages>449-454</pages>
+<year>2014</year>
+<booktitle>ISSRE Workshops</booktitle>
+<ee>http://dx.doi.org/10.1109/ISSREW.2014.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISSREW.2014.17</ee>
+<crossref>conf/issre/2014w</crossref>
+<url>db/conf/issre/issre2014w.html#LeottaSRT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/StoccoLRT14" mdate="2015-04-15">
+<author>Andrea Stocco</author>
+<author>Maurizio Leotta</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>PESTO: A Tool for Migrating DOM-Based to Visual Web Tests.</title>
+<pages>65-70</pages>
+<year>2014</year>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2014.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2014.36</ee>
+<crossref>conf/scam/2014</crossref>
+<url>db/conf/scam/scam2014.html#StoccoLRT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GoffiGMPT14" mdate="2014-11-07">
+<author>Alberto Goffi</author>
+<author>Alessandra Gorla</author>
+<author>Andrea Mattavelli</author>
+<author>Mauro Pezz&#232;</author>
+<author>Paolo Tonella</author>
+<title>Search-based synthesis of equivalent method sequences.</title>
+<pages>366-376</pages>
+<year>2014</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>http://doi.acm.org/10.1145/2635868.2635888</ee>
+<crossref>conf/sigsoft/2014</crossref>
+<url>db/conf/sigsoft/fse2014.html#GoffiGMPT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssbse/KifetewTT14" mdate="2014-07-21">
+<author>Fitsum Meshesha Kifetew</author>
+<author>Roberto Tiella</author>
+<author>Paolo Tonella</author>
+<title>Combining Stochastic Grammars and Genetic Programming for Coverage Testing at the System Level.</title>
+<pages>138-152</pages>
+<year>2014</year>
+<booktitle>SSBSE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-09940-8_10</ee>
+<crossref>conf/ssbse/2014</crossref>
+<url>db/conf/ssbse/ssbse2014.html#KifetewTT14</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/TonellaSP13" mdate="2012-10-24">
+<author>Paolo Tonella</author>
+<author>Angelo Susi</author>
+<author>Francis Palma</author>
+<title>Interactive requirements prioritization using a genetic algorithm.</title>
+<pages>173-187</pages>
+<year>2013</year>
+<volume>55</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1016/j.infsof.2012.07.003</ee>
+<url>db/journals/infsof/infsof55.html#TonellaSP13</url>
+</article>
+</r>
+<r><article key="journals/jss/AbebeACT13" mdate="2013-11-06">
+<author>Surafel Lemma Abebe</author>
+<author>Anita Alicante</author>
+<author>Anna Corazza</author>
+<author>Paolo Tonella</author>
+<title>Supporting concept location through identifier parsing and ontology extraction.</title>
+<pages>2919-2938</pages>
+<year>2013</year>
+<volume>86</volume>
+<journal>Journal of Systems and Software</journal>
+<number>11</number>
+<ee>http://dx.doi.org/10.1016/j.jss.2013.07.009</ee>
+<url>db/journals/jss/jss86.html#AbebeACT13</url>
+</article>
+</r>
+<r><article key="journals/smr/FrancescomarinoMT13" mdate="2013-02-28">
+<author>Chiara Di Francescomarino</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Cluster-based modularization of processes recovered from web applications.</title>
+<pages>113-138</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>Journal of Software: Evolution and Process</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1002/smr.518</ee>
+<url>db/journals/smr/smr25.html#FrancescomarinoMT13</url>
+</article>
+</r>
+<r><article key="journals/smr/CordyT13" mdate="2013-12-13">
+<author>James R. Cordy</author>
+<author>Paolo Tonella</author>
+<title>Special section on ICSM 2011.</title>
+<pages>1137-1138</pages>
+<year>2013</year>
+<volume>25</volume>
+<journal>Journal of Software: Evolution and Process</journal>
+<number>11</number>
+<ee>http://dx.doi.org/10.1002/smr.1600</ee>
+<url>db/journals/smr/smr25.html#CordyT13</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/AbebeT13" mdate="2014-07-22">
+<author>Surafel Lemma Abebe</author>
+<author>Paolo Tonella</author>
+<title>Automated Identifier Completion and Replacement.</title>
+<pages>263-272</pages>
+<year>2013</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2013.35</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2013.35</ee>
+<crossref>conf/csmr/2013</crossref>
+<url>db/conf/csmr/csmr2013.html#AbebeT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TonellaNMLH13" mdate="2015-08-10">
+<author>Paolo Tonella</author>
+<author>Cu Duy Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Kiran Lakhotia</author>
+<author>Mark Harman</author>
+<title>Automated generation of state abstraction functions using data invariant inference.</title>
+<pages>75-81</pages>
+<year>2013</year>
+<booktitle>AST</booktitle>
+<ee>http://dx.doi.org/10.1109/IWAST.2013.6595795</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWAST.2013.6595795</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2662431</ee>
+<crossref>conf/icse/2013ast</crossref>
+<url>db/conf/icse/ast2013.html#TonellaNMLH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/KifetewPLOT13" mdate="2013-07-15">
+<author>Fitsum Meshesha Kifetew</author>
+<author>Annibale Panichella</author>
+<author>Andrea De Lucia</author>
+<author>Rocco Oliveto</author>
+<author>Paolo Tonella</author>
+<title>Orthogonal exploration of the search space in evolutionary test case generation.</title>
+<pages>257-267</pages>
+<year>2013</year>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/2483760.2483789</ee>
+<crossref>conf/issta/2013</crossref>
+<url>db/conf/issta/issta2013.html#KifetewPLOT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/KifetewJTOT13" mdate="2014-01-16">
+<author>Fitsum Meshesha Kifetew</author>
+<author>Wei Jin</author>
+<author>Roberto Tiella</author>
+<author>Alessandro Orso</author>
+<author>Paolo Tonella</author>
+<title>SBFR: A search based approach for reproducing failures of programs with grammar based input.</title>
+<pages>604-609</pages>
+<year>2013</year>
+<booktitle>ASE</booktitle>
+<ee>http://dx.doi.org/10.1109/ASE.2013.6693120</ee>
+<crossref>conf/kbse/2013</crossref>
+<url>db/conf/kbse/ase2013.html#KifetewJTOT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/NguyenT13" mdate="2014-01-16">
+<author>Duy Cu Nguyen</author>
+<author>Paolo Tonella</author>
+<title>Automated inference of classifications and dependencies for combinatorial testing.</title>
+<pages>622-627</pages>
+<year>2013</year>
+<booktitle>ASE</booktitle>
+<ee>http://dx.doi.org/10.1109/ASE.2013.6693123</ee>
+<crossref>conf/kbse/2013</crossref>
+<url>db/conf/kbse/ase2013.html#NguyenT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pts/VosTPKSBH13" mdate="2014-07-03">
+<author>Tanja E. J. Vos</author>
+<author>Paolo Tonella</author>
+<author>I. S. Wishnu B. Prasetya</author>
+<author>Peter M. Kruse</author>
+<author>Onn Shehory</author>
+<author>Alessandra Bagnato</author>
+<author>Mark Harman</author>
+<title>The FITTEST Tool Suite for Testing Future Internet Applications.</title>
+<pages>1-31</pages>
+<year>2013</year>
+<booktitle>FITTEST@ICTSS</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-07785-7_1</ee>
+<crossref>conf/pts/2013fittest</crossref>
+<url>db/conf/pts/fittest2013.html#VosTPKSBH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pts/TonellaTN13" mdate="2014-07-03">
+<author>Paolo Tonella</author>
+<author>Roberto Tiella</author>
+<author>Cu D. Nguyen</author>
+<title>N-Gram Based Test Sequence Generation from Finite State Models.</title>
+<pages>59-74</pages>
+<year>2013</year>
+<booktitle>FITTEST@ICTSS</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-07785-7_4</ee>
+<crossref>conf/pts/2013fittest</crossref>
+<url>db/conf/pts/fittest2013.html#TonellaTN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/NguyenMT13" mdate="2013-08-31">
+<author>Cu D. Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Automated oracles: an empirical study on cost and effectiveness.</title>
+<pages>136-146</pages>
+<year>2013</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>http://doi.acm.org/10.1145/2491411.2491434</ee>
+<crossref>conf/sigsoft/2013</crossref>
+<url>db/conf/sigsoft/fse2013.html#NguyenMT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/LeottaCRT13" mdate="2015-04-14">
+<author>Maurizio Leotta</author>
+<author>Diego Clerissi</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Capture-replay vs. programmable web testing: An empirical assessment during test case evolution.</title>
+<pages>272-281</pages>
+<year>2013</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2013.6671302</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2013.6671302</ee>
+<crossref>conf/wcre/2013</crossref>
+<url>db/conf/wcre/wcre2013.html#LeottaCRT13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/RiccaLSCT13" mdate="2016-05-27">
+<author>Filippo Ricca</author>
+<author>Maurizio Leotta</author>
+<author>Andrea Stocco</author>
+<author>Diego Clerissi</author>
+<author>Paolo Tonella</author>
+<title>Web testware evolution.</title>
+<pages>39-44</pages>
+<year>2013</year>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2013.6642415</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2013.6642415</ee>
+<crossref>conf/wse/2013</crossref>
+<url>db/conf/wse/wse2013.html#RiccaLSCT13</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/NguyenMPTHL12" mdate="2012-04-19">
+<author>Cu D. Nguyen</author>
+<author>Simon Miles</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<author>Mark Harman</author>
+<author>Michael Luck</author>
+<title>Evolutionary testing of autonomous software agents.</title>
+<pages>260-283</pages>
+<year>2012</year>
+<volume>25</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1007/s10458-011-9175-4</ee>
+<url>db/journals/aamas/aamas25.html#NguyenMPTHL12</url>
+</article>
+</r>
+<r><article key="journals/iee/MarchettoTR12" mdate="2012-03-08">
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>ReAjax: a reverse engineering tool for Ajax Web applications.</title>
+<pages>33-49</pages>
+<year>2012</year>
+<volume>6</volume>
+<journal>IET Software</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1049/iet-sen.2010.0152</ee>
+<url>db/journals/iee/iet-s6.html#MarchettoTR12</url>
+</article>
+</r>
+<r><article key="journals/tse/OrsoT12" mdate="2015-12-10">
+<author>Alessandro Orso</author>
+<author>Paolo Tonella</author>
+<title>Guest Editorial: Special Section on the International Symposium on Software Testing and Analysis 2010.</title>
+<pages>241-242</pages>
+<year>2012</year>
+<volume>38</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1109/TSE.2012.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2012.25</ee>
+<url>db/journals/tse/tse38.html#OrsoT12</url>
+</article>
+</r>
+<r><article key="journals/tsmc/GhidiniFRTS12" mdate="2016-03-09">
+<author>Chiara Ghidini</author>
+<author>Chiara Di Francescomarino</author>
+<author>Marco Rospocher</author>
+<author>Paolo Tonella</author>
+<author>Luciano Serafini</author>
+<title>Semantics-Based Aspect-Oriented Management of Exceptional Flows in Business Processes.</title>
+<pages>25-37</pages>
+<year>2012</year>
+<volume>42</volume>
+<journal>IEEE Trans. Systems, Man, and Cybernetics, Part C</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1109/TSMCC.2011.2138133</ee>
+<url>db/journals/tsmc/tsmcc42.html#GhidiniFRTS12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/CeccatoMMNT12" mdate="2015-05-28">
+<author>Mariano Ceccato</author>
+<author>Alessandro Marchetto</author>
+<author>Leonardo Mariani</author>
+<author>Cu D. Nguyen</author>
+<author>Paolo Tonella</author>
+<title>An empirical study about the effectiveness of debugging when random test cases are used.</title>
+<pages>452-462</pages>
+<year>2012</year>
+<booktitle>ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSE.2012.6227170</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2337277</ee>
+<crossref>conf/icse/2012</crossref>
+<url>db/conf/icse/icse2012.html#CeccatoMMNT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/TonellaMNJLH12" mdate="2014-08-05">
+<author>Paolo Tonella</author>
+<author>Alessandro Marchetto</author>
+<author>Duy Cu Nguyen</author>
+<author>Yue Jia</author>
+<author>Kiran Lakhotia</author>
+<author>Mark Harman</author>
+<title>Finding the Optimal Balance between Over and Under Approximation of Models Inferred from Execution Logs.</title>
+<pages>21-30</pages>
+<year>2012</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2012.82</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2012.82</ee>
+<crossref>conf/icst/2012</crossref>
+<url>db/conf/icst/icst2012.html#TonellaMNJLH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/AlshahwanHMTT12" mdate="2014-08-05">
+<author>Nadia Alshahwan</author>
+<author>Mark Harman</author>
+<author>Alessandro Marchetto</author>
+<author>Roberto Tiella</author>
+<author>Paolo Tonella</author>
+<title>Crawlability Metrics for Web Applications.</title>
+<pages>151-160</pages>
+<year>2012</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2012.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2012.95</ee>
+<crossref>conf/icst/2012</crossref>
+<url>db/conf/icst/icst2012.html#AlshahwanHMTT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/MarianiMNTB12" mdate="2013-04-09">
+<author>Leonardo Mariani</author>
+<author>Alessandro Marchetto</author>
+<author>Cu D. Nguyen</author>
+<author>Paolo Tonella</author>
+<author>Arthur I. Baars</author>
+<title>Revolution: Automatic Evolution of Mined Specifications.</title>
+<pages>241-250</pages>
+<year>2012</year>
+<booktitle>ISSRE</booktitle>
+<ee>http://dx.doi.org/10.1109/ISSRE.2012.14</ee>
+<crossref>conf/issre/2012</crossref>
+<url>db/conf/issre/issre2012.html#MarianiMNTB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/NguyenMT12" mdate="2012-09-09">
+<author>Cu D. Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Combining model-based and combinatorial testing for effective test case generation.</title>
+<pages>100-110</pages>
+<year>2012</year>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/2338965.2336765</ee>
+<crossref>conf/issta/2012</crossref>
+<url>db/conf/issta/issta2012.html#NguyenMT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/MediniAGPT12" mdate="2015-04-14">
+<author>Soumaya Medini</author>
+<author>Giuliano Antoniol</author>
+<author>Yann-Ga&#235;l Gu&#233;h&#233;neuc</author>
+<author>Massimiliano Di Penta</author>
+<author>Paolo Tonella</author>
+<title>SCAN: An Approach to Label and Relate Execution Trace Segments.</title>
+<pages>135-144</pages>
+<year>2012</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2012.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2012.23</ee>
+<crossref>conf/wcre/2012</crossref>
+<url>db/conf/wcre/wcre2012.html#MediniAGPT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/AbebeATAG12" mdate="2015-04-14">
+<author>Surafel Lemma Abebe</author>
+<author>Venera Arnaoudova</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Yann-Ga&#235;l Gu&#233;h&#233;neuc</author>
+<title>Can Lexicon Bad Smells Improve Fault Prediction?</title>
+<pages>235-244</pages>
+<year>2012</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2012.33</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2012.33</ee>
+<crossref>conf/wcre/2012</crossref>
+<url>db/conf/wcre/wcre2012.html#AbebeATAG12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/MarchettoT11" mdate="2011-02-09">
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Using search-based algorithms for Ajax event sequence generation during testing.</title>
+<pages>103-140</pages>
+<year>2011</year>
+<volume>16</volume>
+<journal>Empirical Software Engineering</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1007/s10664-010-9149-1</ee>
+<url>db/journals/ese/ese16.html#MarchettoT11</url>
+</article>
+</r>
+<r><article key="journals/iee/FrancescomarinoT11" mdate="2012-01-24">
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Crosscutting concern mining in business processes.</title>
+<pages>552-562</pages>
+<year>2011</year>
+<volume>5</volume>
+<journal>IET Software</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1049/iet-sen.2010.0145</ee>
+<url>db/journals/iee/iet-s5.html#FrancescomarinoT11</url>
+</article>
+</r>
+<r><article key="journals/smr/FrancescomarinoGRST11" mdate="2011-05-30">
+<author>Chiara Di Francescomarino</author>
+<author>Chiara Ghidini</author>
+<author>Marco Rospocher</author>
+<author>Luciano Serafini</author>
+<author>Paolo Tonella</author>
+<title>A framework for the collaborative specification of semantically annotated business processes.</title>
+<pages>261-295</pages>
+<year>2011</year>
+<volume>23</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1002/smr.525</ee>
+<url>db/journals/smr/smr23.html#FrancescomarinoGRST11</url>
+</article>
+</r>
+<r><article key="journals/software/CeccatoT11" mdate="2016-01-12">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>CodeBender: Remote Software Protection Using Orthogonal Replacement.</title>
+<pages>28-34</pages>
+<year>2011</year>
+<volume>28</volume>
+<journal>IEEE Software</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1109/MS.2010.158</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2010.158</ee>
+<url>db/journals/software/software28.html#CeccatoT11</url>
+</article>
+</r>
+<r><article key="journals/sttt/MarchettoTTAH11" mdate="2011-04-19">
+<author>Alessandro Marchetto</author>
+<author>Roberto Tiella</author>
+<author>Paolo Tonella</author>
+<author>Nadia Alshahwan</author>
+<author>Mark Harman</author>
+<title>Crawlability metrics for automated web testing.</title>
+<pages>131-149</pages>
+<year>2011</year>
+<volume>13</volume>
+<journal>STTT</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1007/s10009-010-0177-3</ee>
+<url>db/journals/sttt/sttt13.html#MarchettoTTAH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/VosTWHPPN11" mdate="2014-11-25">
+<author>Tanja E. J. Vos</author>
+<author>Paolo Tonella</author>
+<author>Joachim Wegener</author>
+<author>Mark Harman</author>
+<author>Wishnu Prasetya</author>
+<author>Elisa Puoskari</author>
+<author>Yarden Nir-Buchbinder</author>
+<title>Future Internet Testing with FITTEST.</title>
+<pages>355-358</pages>
+<year>2011</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2011.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2011.51</ee>
+<crossref>conf/csmr/2011</crossref>
+<url>db/conf/csmr/csmr2011.html#VosTWHPPN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/MarcusCT11" mdate="2015-06-10">
+<author>Andrian Marcus</author>
+<author>James R. Cordy</author>
+<author>Paolo Tonella</author>
+<title>Foreword.</title>
+<year>2011</year>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2011.6080763</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2011.6080763</ee>
+<crossref>conf/icsm/2011</crossref>
+<url>db/conf/icsm/icsm2011.html#MarcusCT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/NguyenMT11" mdate="2014-08-05">
+<author>Duy Cu Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Challenges in Audit Testing of Web Services.</title>
+<pages>103-106</pages>
+<year>2011</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSTW.2011.104</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSTW.2011.104</ee>
+<crossref>conf/icst/2011w</crossref>
+<url>db/conf/icst/icstw2011.html#NguyenMT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/MarchettoNT11" mdate="2014-08-05">
+<author>Alessandro Marchetto</author>
+<author>Duy Cu Nguyen</author>
+<author>Paolo Tonella</author>
+<title>Automated Detection of Discontinuities in Models Inferred from Execution Traces.</title>
+<pages>286-293</pages>
+<year>2011</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSTW.2011.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSTW.2011.74</ee>
+<crossref>conf/icst/2011w</crossref>
+<url>db/conf/icst/icstw2011.html#MarchettoNT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/NguyenMT11a" mdate="2014-08-05">
+<author>Duy Cu Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Change Sensitivity Based Prioritization for Audit Testing of Webservice Compositions.</title>
+<pages>357-365</pages>
+<year>2011</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSTW.2011.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSTW.2011.50</ee>
+<crossref>conf/icst/2011w</crossref>
+<url>db/conf/icst/icstw2011.html#NguyenMT11a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icws/NguyenMT11" mdate="2015-08-20">
+<author>Cu D. Nguyen</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Test Case Prioritization for Audit Testing of Evolving Web Services Using Information Retrieval Techniques.</title>
+<pages>636-643</pages>
+<year>2011</year>
+<booktitle>ICWS</booktitle>
+<ee>http://dx.doi.org/10.1109/ICWS.2011.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICWS.2011.75</ee>
+<crossref>conf/icws/2011</crossref>
+<url>db/conf/icws/icws2011.html#NguyenMT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kbse/BaarsHHLMTV11" mdate="2015-08-14">
+<author>Arthur I. Baars</author>
+<author>Mark Harman</author>
+<author>Youssef Hassoun</author>
+<author>Kiran Lakhotia</author>
+<author>Phil McMinn</author>
+<author>Paolo Tonella</author>
+<author>Tanja E. J. Vos</author>
+<title>Symbolic search-based testing.</title>
+<pages>53-62</pages>
+<year>2011</year>
+<booktitle>ASE</booktitle>
+<ee>http://dx.doi.org/10.1109/ASE.2011.6100119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASE.2011.6100119</ee>
+<crossref>conf/kbse/2011</crossref>
+<url>db/conf/kbse/ase2011.html#BaarsHHLMTV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rcis/MarinVGBT11" mdate="2011-09-22">
+<author>Beatriz Mar&#237;n</author>
+<author>Tanja E. J. Vos</author>
+<author>Giovanni Giachetti</author>
+<author>Arthur I. Baars</author>
+<author>Paolo Tonella</author>
+<title>Towards testing future Web applications.</title>
+<pages>1-12</pages>
+<year>2011</year>
+<booktitle>RCIS</booktitle>
+<ee>http://dx.doi.org/10.1109/RCIS.2011.6006859</ee>
+<crossref>conf/rcis/2011</crossref>
+<url>db/conf/rcis/rcis2011.html#MarinVGBT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/AbebeHTM11" mdate="2015-04-15">
+<author>Surafel Lemma Abebe</author>
+<author>Sonia Haiduc</author>
+<author>Paolo Tonella</author>
+<author>Andrian Marcus</author>
+<title>The Effect of Lexicon Bad Smells on Concept Location in Source Code.</title>
+<pages>125-134</pages>
+<year>2011</year>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2011.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2011.18</ee>
+<crossref>conf/scam/2011</crossref>
+<url>db/conf/scam/scam2011.html#AbebeHTM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/PalmaST11" mdate="2011-09-08">
+<author>Francis Palma</author>
+<author>Angelo Susi</author>
+<author>Paolo Tonella</author>
+<title>Using an SMT solver for interactive requirements prioritization.</title>
+<pages>48-58</pages>
+<year>2011</year>
+<booktitle>SIGSOFT FSE</booktitle>
+<ee>http://doi.acm.org/10.1145/2025113.2025124</ee>
+<crossref>conf/sigsoft/2011</crossref>
+<url>db/conf/sigsoft/fse2011.html#PalmaST11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssbse/MarchettoFT11" mdate="2011-09-07">
+<author>Alessandro Marchetto</author>
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Optimizing the Trade-Off between Complexity and Conformance in Process Reduction.</title>
+<pages>158-172</pages>
+<year>2011</year>
+<booktitle>SSBSE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-23716-4_16</ee>
+<crossref>conf/ssbse/2011</crossref>
+<url>db/conf/ssbse/ssbse2011.html#MarchettoFT11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/AbebeT11" mdate="2015-04-14">
+<author>Surafel Lemma Abebe</author>
+<author>Paolo Tonella</author>
+<title>Towards the Extraction of Domain Concepts from the Identifiers.</title>
+<pages>77-86</pages>
+<year>2011</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2011.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2011.19</ee>
+<crossref>conf/wcre/2011</crossref>
+<url>db/conf/wcre/wcre2011.html#AbebeT11</url>
+</inproceedings>
+</r>
+<r><article key="journals/iee/TorchianoRT10" mdate="2010-11-21">
+<author>Marco Torchiano</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Empirical comparison of graphical and annotation-based re-documentation approaches.</title>
+<pages>15-31</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>IET Software</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1049/iet-sen.2009.0015</ee>
+<url>db/journals/iee/iet-s4.html#TorchianoRT10</url>
+</article>
+</r>
+<r><article key="journals/ijaose/NguyenPT10" mdate="2010-11-02">
+<author>Cu D. Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>Goal-oriented testing for MASs.</title>
+<pages>79-109</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>IJAOSE</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1504/IJAOSE.2010.029810</ee>
+<url>db/journals/ijaose/ijaose4.html#NguyenPT10</url>
+</article>
+</r>
+<r><article key="journals/ijismd/FrancescomarinoT10" mdate="2011-02-07">
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Supporting Ontology-Based Semantic Annotation of Business Processes with Automated Suggestions.</title>
+<pages>59-84</pages>
+<year>2010</year>
+<volume>1</volume>
+<journal>IJISMD</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.4018/jismd.2010040104</ee>
+<url>db/journals/ijismd/ijismd1.html#FrancescomarinoT10</url>
+</article>
+</r>
+<r><article key="journals/smr/CeccatoDTM10" mdate="2010-07-02">
+<author>Mariano Ceccato</author>
+<author>Thomas Roy Dean</author>
+<author>Paolo Tonella</author>
+<author>Davide Marchignoli</author>
+<title>Migrating legacy data structures based on variable overlay to Java.</title>
+<pages>211-237</pages>
+<year>2010</year>
+<volume>22</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1002/smr.418</ee>
+<url>db/journals/smr/smr22.html#CeccatoDTM10</url>
+</article>
+</r>
+<r><article key="journals/tse/RiccaPTTC10" mdate="2015-12-10">
+<author>Filippo Ricca</author>
+<author>Massimiliano Di Penta</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>How Developers' Experience and Ability Influence Web Application Comprehension Tasks Supported by UML Stereotypes: A Series of Four Experiments.</title>
+<pages>96-118</pages>
+<year>2010</year>
+<volume>36</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1109/TSE.2009.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2009.69</ee>
+<url>db/journals/tse/tse36.html#RiccaPTTC10</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/MarchettoTR10" mdate="2014-11-26">
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>Under and Over Approximation of State Models Recovered for Ajax Applications.</title>
+<pages>236-239</pages>
+<year>2010</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2010.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2010.42</ee>
+<crossref>conf/csmr/2010</crossref>
+<url>db/conf/csmr/csmr2010.html#MarchettoTR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MarchettoNFQPT10" mdate="2014-05-24">
+<author>Alessandro Marchetto</author>
+<author>Cu D. Nguyen</author>
+<author>Chiara Di Francescomarino</author>
+<author>Nauman A. Qureshi</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>A design methodology for real services.</title>
+<pages>15-21</pages>
+<year>2010</year>
+<booktitle>PESOS</booktitle>
+<ee>http://doi.acm.org/10.1145/1808885.1808889</ee>
+<crossref>conf/icse/2010pesos</crossref>
+<url>db/conf/icse/pesos2010.html#MarchettoNFQPT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/CeccatoT10" mdate="2015-06-10">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>Static analysis for enforcing intra-thread consistent locks in the migration of a legacy system.</title>
+<pages>1-9</pages>
+<year>2010</year>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2010.5609727</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2010.5609727</ee>
+<crossref>conf/icsm/2010</crossref>
+<url>db/conf/icsm/icsm2010.html#CeccatoT10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/istar/FrancescomarinoLMNQSPSTZ10" mdate="2011-09-20">
+<author>Chiara Di Francescomarino</author>
+<author>Chiara Leonardi</author>
+<author>Alessandro Marchetto</author>
+<author>Cu D. Nguyen</author>
+<author>Nauman A. Qureshi</author>
+<author>Luca Sabatucci</author>
+<author>Anna Perini</author>
+<author>Angelo Susi</author>
+<author>Paolo Tonella</author>
+<author>Massimo Zancanaro</author>
+<title>A bit of &#34;Persona&#34;, a bit of &#34;Goal&#34;, a bit of &#34;Process&#34; ... a recipe for Analyzing User Intensive Software Systems.</title>
+<pages>36-40</pages>
+<year>2010</year>
+<booktitle>iStar</booktitle>
+<ee>http://ceur-ws.org/Vol-586/iStar10-paper07.pdf</ee>
+<crossref>conf/istar/2010</crossref>
+<url>db/conf/istar/istar2010.html#FrancescomarinoLMNQSPSTZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/AbebeT10" mdate="2014-11-07">
+<author>Surafel Lemma Abebe</author>
+<author>Paolo Tonella</author>
+<title>Natural Language Parsing of Program Element Names for Concept Extraction.</title>
+<pages>156-159</pages>
+<year>2010</year>
+<booktitle>ICPC</booktitle>
+<ee>http://dx.doi.org/10.1109/ICPC.2010.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPC.2010.29</ee>
+<crossref>conf/iwpc/2010</crossref>
+<url>db/conf/iwpc/icpc2010.html#AbebeT10</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/issta/2010" mdate="2010-07-14">
+<editor>Paolo Tonella</editor>
+<editor>Alessandro Orso</editor>
+<title>Proceedings of the Nineteenth International Symposium on Software Testing and Analysis, ISSTA 2010, Trento, Italy, July 12-16, 2010</title>
+<booktitle>ISSTA</booktitle>
+<publisher>ACM</publisher>
+<year>2010</year>
+<isbn>978-1-60558-823-0</isbn>
+<url>db/conf/issta/issta2010.html</url>
+</proceedings>
+</r>
+<r><inproceedings publtype="informal publication" key="conf/dagstuhl/AlshahwanJLFST10" mdate="2015-04-10">
+<author>Nadia Alshahwan</author>
+<author>Yue Jia</author>
+<author>Kiran Lakhotia</author>
+<author>Gordon Fraser</author>
+<author>David Shuler</author>
+<author>Paolo Tonella</author>
+<title>AUTOMOCK: Automated Synthesis of a Mock Environment for Test Case Generation.</title>
+<year>2010</year>
+<booktitle>Practical Software Testing: Tool Automation and Human Factors</booktitle>
+<ee>http://drops.dagstuhl.de/opus/volltexte/2010/2618/</ee>
+<crossref>conf/dagstuhl/2010P10111</crossref>
+<url>db/conf/dagstuhl/P10111.html#AlshahwanJLFST10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ase/CeccatoPNCT09" mdate="2009-05-20">
+<author>Mariano Ceccato</author>
+<author>Mila Dalla Preda</author>
+<author>Jasvir Nagra</author>
+<author>Christian S. Collberg</author>
+<author>Paolo Tonella</author>
+<title>Trading-off security and performance in barrier slicing for remote software entrusting.</title>
+<pages>235-261</pages>
+<year>2009</year>
+<volume>16</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1007/s10515-009-0047-y</ee>
+<url>db/journals/ase/ase16.html#CeccatoPNCT09</url>
+</article>
+</r>
+<r><article key="journals/iee/CeccatoT09" mdate="2010-11-21">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>Dynamic aspect mining.</title>
+<pages>321-336</pages>
+<year>2009</year>
+<volume>3</volume>
+<journal>IET Software</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1049/iet-sen.2008.0108</ee>
+<url>db/journals/iee/iet-s3.html#CeccatoT09</url>
+</article>
+</r>
+<r><article key="journals/infsof/RiccaTPCT09" mdate="2009-11-26">
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Massimiliano Di Penta</author>
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>Using acceptance tests as a support for clarifying requirements: A series of experiments.</title>
+<pages>270-283</pages>
+<year>2009</year>
+<volume>51</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1016/j.infsof.2008.01.007</ee>
+<url>db/journals/infsof/infsof51.html#RiccaTPCT09</url>
+</article>
+</r>
+<r><article key="journals/infsof/CeccatoDT09" mdate="2009-11-26">
+<author>Mariano Ceccato</author>
+<author>Thomas Roy Dean</author>
+<author>Paolo Tonella</author>
+<title>Recovering structured data types from a legacy data model with overlays.</title>
+<pages>1454-1468</pages>
+<year>2009</year>
+<volume>51</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>10</number>
+<ee>http://dx.doi.org/10.1016/j.infsof.2009.04.017</ee>
+<url>db/journals/infsof/infsof51.html#CeccatoDT09</url>
+</article>
+</r>
+<r><article key="journals/jwe/MarchettoRT09" mdate="2014-12-17">
+<author>Alessandro Marchetto</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>An Empirical Validation of a Web Fault Taxonomy and its Usage for Web Testing.</title>
+<pages>316-345</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>J. Web Eng.</journal>
+<number>4</number>
+<ee>http://www.rintonpress.com/xjwe8/jwe-8-4/316-345.pdf</ee>
+<url>db/journals/jwe/jwe8.html#MarchettoRT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/NguyenPTMHL09" mdate="2009-07-01">
+<author>Cu D. Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<author>Simon Miles</author>
+<author>Mark Harman</author>
+<author>Michael Luck</author>
+<title>Evolutionary testing of autonomous software agents.</title>
+<pages>521-528</pages>
+<year>2009</year>
+<booktitle>AAMAS (1)</booktitle>
+<ee>http://doi.acm.org/10.1145/1558013.1558085</ee>
+<crossref>conf/atal/2009-1</crossref>
+<url>db/conf/atal/aamas2009-1.html#NguyenPTMHL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpm/RospocherFGST09" mdate="2010-04-14">
+<author>Marco Rospocher</author>
+<author>Chiara Di Francescomarino</author>
+<author>Chiara Ghidini</author>
+<author>Luciano Serafini</author>
+<author>Paolo Tonella</author>
+<title>Collaborative Specification of Semantically Annotated Business Processes.</title>
+<pages>305-317</pages>
+<year>2009</year>
+<booktitle>Business Process Management Workshops</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-12186-9_29</ee>
+<crossref>conf/bpm/2009w</crossref>
+<url>db/conf/bpm/bpmw2009.html#RospocherFGST09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/caise/FrancescomarinoT09" mdate="2010-04-24">
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Supporting Ontology-Based Semantic Annotation of Business Processes with Automated Suggestions.</title>
+<pages>211-223</pages>
+<year>2009</year>
+<booktitle>BMMDS/EMMSAD</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-01862-6_18</ee>
+<crossref>conf/caise/2009bpmds</crossref>
+<url>db/conf/caise/bpmds2009.html#FrancescomarinoT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/FrancescomarinoMT09" mdate="2014-11-26">
+<author>Chiara Di Francescomarino</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Reverse Engineering of Business Processes exposed as Web Applications.</title>
+<pages>139-148</pages>
+<year>2009</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2009.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2009.26</ee>
+<crossref>conf/csmr/2009</crossref>
+<url>db/conf/csmr/csmr2009.html#FrancescomarinoMT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/AbebeHMTA09" mdate="2014-11-25">
+<author>Surafel Lemma Abebe</author>
+<author>Sonia Haiduc</author>
+<author>Andrian Marcus</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Analyzing the Evolution of the Source Code Vocabulary.</title>
+<pages>189-198</pages>
+<year>2009</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2009.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2009.61</ee>
+<crossref>conf/csmr/2009</crossref>
+<url>db/conf/csmr/csmr2009.html#AbebeHMTA09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FrancescomarinoT09" mdate="2015-08-07">
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Cooperative Aspect Oriented Programming for executable business processes.</title>
+<pages>91-94</pages>
+<year>2009</year>
+<booktitle>PESOS@ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/PESOS.2009.5068826</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PESOS.2009.5068826</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1564733</ee>
+<crossref>conf/icse/2009pesos</crossref>
+<url>db/conf/icse/pesos2009.html#FrancescomarinoT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/YooHTS09" mdate="2009-11-02">
+<author>Shin Yoo</author>
+<author>Mark Harman</author>
+<author>Paolo Tonella</author>
+<author>Angelo Susi</author>
+<title>Clustering test cases to achieve effective and scalable prioritisation incorporating expert knowledge.</title>
+<pages>201-212</pages>
+<year>2009</year>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/1572272.1572296</ee>
+<crossref>conf/issta/2009</crossref>
+<url>db/conf/issta/issta2009.html#YooHTS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/CeccatoPNFRTT09" mdate="2009-11-19">
+<author>Mariano Ceccato</author>
+<author>Massimiliano Di Penta</author>
+<author>Jasvir Nagra</author>
+<author>Paolo Falcarin</author>
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<title>The effectiveness of source code obfuscation: An experimental assessment.</title>
+<pages>178-187</pages>
+<year>2009</year>
+<booktitle>ICPC</booktitle>
+<ee>http://dx.doi.org/10.1109/ICPC.2009.5090041</ee>
+<crossref>conf/iwpc/2009</crossref>
+<url>db/conf/iwpc/icpc2009.html#CeccatoPNFRTT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/CeccatoTPM09" mdate="2009-04-17">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<author>Mila Dalla Preda</author>
+<author>Anirban Majumdar</author>
+<title>Remote software protection by orthogonal client replacement.</title>
+<pages>448-455</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>http://doi.acm.org/10.1145/1529282.1529380</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#CeccatoTPM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/FrancescomarinoGRST09" mdate="2009-11-11">
+<author>Chiara Di Francescomarino</author>
+<author>Chiara Ghidini</author>
+<author>Marco Rospocher</author>
+<author>Luciano Serafini</author>
+<author>Paolo Tonella</author>
+<title>Semantically-Aided Business Process Modeling.</title>
+<pages>114-129</pages>
+<year>2009</year>
+<booktitle>International Semantic Web Conference</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-04930-9_8</ee>
+<crossref>conf/semweb/2009</crossref>
+<url>db/conf/semweb/iswc2009.html#FrancescomarinoGRST09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/AbebeHTM99a" mdate="2015-04-14">
+<author>Surafel Lemma Abebe</author>
+<author>Sonia Haiduc</author>
+<author>Paolo Tonella</author>
+<author>Andrian Marcus</author>
+<title>Lexicon Bad Smells in Software.</title>
+<pages>95-99</pages>
+<year>2009</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2009.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2009.26</ee>
+<crossref>conf/wcre/2009</crossref>
+<url>db/conf/wcre/wcre2009.html#AbebeHTM99a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/AlshahwanHMT09" mdate="2011-02-08">
+<author>Nadia Alshahwan</author>
+<author>Mark Harman</author>
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<title>Improving Web Application Testing using testability measures.</title>
+<pages>49-58</pages>
+<year>2009</year>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2009.5630393</ee>
+<crossref>conf/wse/2009</crossref>
+<url>db/conf/wse/wse2009.html#AlshahwanHMT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/smr/RiccaPTG08" mdate="2008-11-19">
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Paolo Tonella</author>
+<author>Christian Girardi</author>
+<title>Improving Web site understanding with keyword-based clustering.</title>
+<pages>1-29</pages>
+<year>2008</year>
+<volume>20</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1002/smr.360</ee>
+<url>db/journals/smr/smr20.html#RiccaPTG08</url>
+</article>
+</r>
+<r><article key="journals/sttt/MarchettoRT08" mdate="2008-11-25">
+<author>Alessandro Marchetto</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>A case study-based comparison of web testing techniques applied to AJAX web applications.</title>
+<pages>477-492</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>STTT</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1007/s10009-008-0086-x</ee>
+<url>db/journals/sttt/sttt10.html#MarchettoRT08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aose/NguyenPT08" mdate="2009-04-28">
+<author>Cu D. Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>Experimental Evaluation of Ontology-Based Test Generation for Multi-agent Systems.</title>
+<pages>187-198</pages>
+<year>2008</year>
+<booktitle>AOSE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-01338-6_14</ee>
+<crossref>conf/aose/2008</crossref>
+<url>db/conf/aose/aose2008.html#NguyenPT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NguyenPT08" mdate="2008-08-19">
+<author>Duy Cu Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>Ontology-based test generation for multiagent systems.</title>
+<pages>1315-1320</pages>
+<year>2008</year>
+<booktitle>AAMAS (3)</booktitle>
+<ee>http://doi.acm.org/10.1145/1402821.1402860</ee>
+<crossref>conf/atal/2008-3</crossref>
+<url>db/conf/atal/aamas2008-3.html#NguyenPT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/atal/NguyenPT08a" mdate="2008-08-19">
+<author>Duy Cu Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>eCAT: a tool for automating test cases generation and execution in testing multi-agent systems.</title>
+<pages>1669-1670</pages>
+<year>2008</year>
+<booktitle>AAMAS (Demos)</booktitle>
+<ee>http://doi.acm.org/10.1145/1402744.1402757</ee>
+<crossref>conf/atal/2008demo</crossref>
+<url>db/conf/atal/aamas2008demo.html#NguyenPT08a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bpm/FrancescomarinoT08" mdate="2009-08-17">
+<author>Chiara Di Francescomarino</author>
+<author>Paolo Tonella</author>
+<title>Crosscutting Concern Documentation by Visual Query of Business Processes.</title>
+<pages>18-31</pages>
+<year>2008</year>
+<booktitle>Business Process Management Workshops</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-00328-8_3</ee>
+<crossref>conf/bpm/2008w</crossref>
+<url>db/conf/bpm/bpmw2008.html#FrancescomarinoT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccs/CeccatoPNFRTT08" mdate="2008-11-11">
+<author>Mariano Ceccato</author>
+<author>Massimiliano Di Penta</author>
+<author>Jasvir Nagra</author>
+<author>Paolo Falcarin</author>
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<title>Towards experimental evaluation of code obfuscation techniques.</title>
+<pages>39-46</pages>
+<year>2008</year>
+<booktitle>QoP</booktitle>
+<ee>http://doi.acm.org/10.1145/1456362.1456371</ee>
+<crossref>conf/ccs/2008qop</crossref>
+<url>db/conf/ccs/qop2008.html#CeccatoPNFRTT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/CeccatoTM08" mdate="2014-11-26">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<author>Cristina Matteotti</author>
+<title>Goto Elimination Strategies in the Migration of Legacy Code to Java.</title>
+<pages>53-62</pages>
+<year>2008</year>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2008.4493300</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2008.4493300</ee>
+<crossref>conf/csmr/2008</crossref>
+<url>db/conf/csmr/csmr2008.html#CeccatoTM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RiccaPTTCV08" mdate="2008-05-15">
+<author>Filippo Ricca</author>
+<author>Massimiliano Di Penta</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<author>Corrado Aaron Visaggio</author>
+<title>Are fit tables really talking?: a series of experiments to understand whether fit tables are useful during evolution tasks.</title>
+<pages>361-370</pages>
+<year>2008</year>
+<booktitle>ICSE</booktitle>
+<ee>http://doi.acm.org/10.1145/1368088.1368138</ee>
+<crossref>conf/icse/2008</crossref>
+<url>db/conf/icse/icse2008.html#RiccaPTTCV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/FrancescomarinoGRST08" mdate="2008-11-22">
+<author>Chiara Di Francescomarino</author>
+<author>Chiara Ghidini</author>
+<author>Marco Rospocher</author>
+<author>Luciano Serafini</author>
+<author>Paolo Tonella</author>
+<title>Reasoning on Semantically Annotated Processes.</title>
+<pages>132-146</pages>
+<year>2008</year>
+<booktitle>ICSOC</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-89652-4_13</ee>
+<crossref>conf/icsoc/2008</crossref>
+<url>db/conf/icsoc/icsoc2008.html#FrancescomarinoGRST08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/MarchettoTR08" mdate="2014-08-05">
+<author>Alessandro Marchetto</author>
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>State-Based Testing of Ajax Web Applications.</title>
+<pages>121-130</pages>
+<year>2008</year>
+<booktitle>ICST</booktitle>
+<ee>http://dx.doi.org/10.1109/ICST.2008.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICST.2008.22</ee>
+<crossref>conf/icst/2008</crossref>
+<url>db/conf/icst/icst2008.html#MarchettoTR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/NguyenPTK08" mdate="2014-08-05">
+<author>Cu D. Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<author>Fondazione Bruno Kessler</author>
+<title>Constraint-based Evolutionary Testing of Autonomous Distributed Systems.</title>
+<pages>221-230</pages>
+<year>2008</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSTW.2008.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSTW.2008.13</ee>
+<crossref>conf/icst/2008w</crossref>
+<url>db/conf/icst/icstw2008.html#NguyenPTK08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwsm/LongoTTV08" mdate="2008-11-20">
+<author>Francesca Longo</author>
+<author>Roberto Tiella</author>
+<author>Paolo Tonella</author>
+<author>Adolfo Villafiorita</author>
+<title>Measuring the Impact of Different Categories of Software Evolution.</title>
+<pages>344-351</pages>
+<year>2008</year>
+<booktitle>IWSM/Metrikon/Mensura</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-89403-2_28</ee>
+<crossref>conf/iwsm/2008</crossref>
+<url>db/conf/iwsm/iwsm2008.html#LongoTTV08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdp/CeccatoNT08" mdate="2015-02-03">
+<author>Mariano Ceccato</author>
+<author>Jasvir Nagra</author>
+<author>Paolo Tonella</author>
+<title>Distributing Trust Verification to Increase Application Performance.</title>
+<pages>604-610</pages>
+<year>2008</year>
+<booktitle>PDP</booktitle>
+<ee>http://dx.doi.org/10.1109/PDP.2008.69</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDP.2008.69</ee>
+<crossref>conf/pdp/2008</crossref>
+<url>db/conf/pdp/pdp2008.html#CeccatoNT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/CeccatoDT08" mdate="2015-04-15">
+<author>Mariano Ceccato</author>
+<author>Thomas Roy Dean</author>
+<author>Paolo Tonella</author>
+<title>Using Program Transformations to Add Structure to a Legacy Data Model.</title>
+<pages>197-206</pages>
+<year>2008</year>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2008.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2008.9</ee>
+<crossref>conf/scam/2008</crossref>
+<url>db/conf/scam/scam2008.html#CeccatoDT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sofsem/CeccatoOT08" mdate="2008-01-09">
+<author>Mariano Ceccato</author>
+<author>Yoram Ofek</author>
+<author>Paolo Tonella</author>
+<title>Remote Entrusting by Run-Time Software Authentication.</title>
+<pages>83-97</pages>
+<year>2008</year>
+<crossref>conf/sofsem/2008</crossref>
+<booktitle>SOFSEM</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-77566-9_8</ee>
+<url>db/conf/sofsem/sofsem2008.html#CeccatoOT08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/CeccatoDTM08" mdate="2015-04-14">
+<author>Mariano Ceccato</author>
+<author>Thomas Roy Dean</author>
+<author>Paolo Tonella</author>
+<author>Davide Marchignoli</author>
+<title>Data Model Reverse Engineering in Migrating a Legacy System to Java.</title>
+<pages>177-186</pages>
+<year>2008</year>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2008.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2008.27</ee>
+<crossref>conf/wcre/2008</crossref>
+<url>db/conf/wcre/wcre2008.html#CeccatoDTM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaR08" mdate="2011-08-25">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>Dynamic model extraction and statistical analysis of Web applications: Follow-up after 6 years.</title>
+<pages>3-10</pages>
+<year>2008</year>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2008.4655389</ee>
+<crossref>conf/wse/2008</crossref>
+<url>db/conf/wse/wse2008.html#TonellaR08</url>
+</inproceedings>
+</r>
+<r><article key="journals/eceasst/RiccaTPCT07" mdate="2016-04-21">
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Massimiliano Di Penta</author>
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>The Use of Executable FIT Tables to support Maintenance and Evolution Tasks.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>ECEASST</journal>
+<ee>http://journal.ub.tu-berlin.de/index.php/eceasst/article/view/119</ee>
+<url>db/journals/eceasst/eceasst8.html#RiccaTPCT07</url>
+</article>
+</r>
+<r><article key="journals/ese/TonellaTBS07" mdate="2008-03-11">
+<author>Paolo Tonella</author>
+<author>Marco Torchiano</author>
+<author>Bart Du Bois</author>
+<author>Tarja Syst&#228;</author>
+<title>Empirical studies in reverse engineering: state of the art and future trends.</title>
+<pages>551-571</pages>
+<year>2007</year>
+<volume>12</volume>
+<journal>Empirical Software Engineering</journal>
+<number>5</number>
+<ee>http://dx.doi.org/10.1007/s10664-007-9037-5</ee>
+<url>db/journals/ese/ese12.html#TonellaTBS07</url>
+</article>
+</r>
+<r><article key="journals/smr/RiccaPTTC07" mdate="2007-11-27">
+<author>Filippo Ricca</author>
+<author>Massimiliano Di Penta</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>How design notations affect the comprehension of Web applications.</title>
+<pages>339-359</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>5</number>
+<ee>http://dx.doi.org/10.1002/smr.357</ee>
+<url>db/journals/smr/smr19.html#RiccaPTTC07</url>
+</article>
+</r>
+<r><article key="journals/taosd/KellensMT07" mdate="2016-03-09">
+<author>Andy Kellens</author>
+<author>Kim Mens</author>
+<author>Paolo Tonella</author>
+<title>A Survey of Automated Code-Level Aspect Mining Techniques.</title>
+<pages>143-162</pages>
+<year>2007</year>
+<volume>4</volume>
+<journal>Trans. Aspect-Oriented Software Development</journal>
+<ee>http://dx.doi.org/10.1007/978-3-540-77042-8_6</ee>
+<crossref>journals/taosd/2007-4</crossref>
+<url>db/journals/taosd/taosd4.html#KellensMT07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aose/NguyenPT07" mdate="2008-08-11">
+<author>Duy Cu Nguyen</author>
+<author>Anna Perini</author>
+<author>Paolo Tonella</author>
+<title>A Goal-Oriented Software Testing Methodology.</title>
+<pages>58-72</pages>
+<year>2007</year>
+<booktitle>AOSE</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-540-79488-2_5</ee>
+<crossref>conf/aose/2007</crossref>
+<url>db/conf/aose/aose2007.html#NguyenPT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/RiccaPTTC07" mdate="2015-08-07">
+<author>Filippo Ricca</author>
+<author>Massimiliano Di Penta</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>The Role of Experience and Ability in Comprehension Tasks Supported by UML Stereotypes.</title>
+<pages>375-384</pages>
+<year>2007</year>
+<crossref>conf/icse/2007</crossref>
+<booktitle>ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSE.2007.86</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2007.86</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1248870</ee>
+<url>db/conf/icse/icse2007.html#RiccaPTTC07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/AntoniolGMT07" mdate="2008-11-18">
+<author>Giuliano Antoniol</author>
+<author>Yann-Ga&#235;l Gu&#233;h&#233;neuc</author>
+<author>Ettore Merlo</author>
+<author>Paolo Tonella</author>
+<title>Mining the Lexicon Used by Programmers during Sofware Evolution.</title>
+<pages>14-23</pages>
+<year>2007</year>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2007.4362614</ee>
+<crossref>conf/icsm/2007</crossref>
+<url>db/conf/icsm/icsm2007.html#AntoniolGMT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpse/RiccaTCT07" mdate="2008-11-03">
+<author>Filippo Ricca</author>
+<author>Marco Torchiano</author>
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>Talking tests: an empirical assessment of the role of fit acceptance tests in clarifying requirements.</title>
+<pages>51-58</pages>
+<year>2007</year>
+<booktitle>IWPSE</booktitle>
+<ee>http://doi.acm.org/10.1145/1294948.1294962</ee>
+<crossref>conf/iwpse/2007</crossref>
+<url>db/conf/iwpse/iwpse2007.html#RiccaTCT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/CeccatoPNCT07" mdate="2015-04-15">
+<author>Mariano Ceccato</author>
+<author>Mila Dalla Preda</author>
+<author>Jasvir Nagra</author>
+<author>Christian S. Collberg</author>
+<author>Paolo Tonella</author>
+<title>Barrier Slicing for Remote Software Trusting.</title>
+<pages>27-36</pages>
+<year>2007</year>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2007.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2007.27</ee>
+<crossref>conf/scam/2007</crossref>
+<url>db/conf/scam/scam2007.html#CeccatoPNCT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/MarchettoRT07" mdate="2016-05-27">
+<author>Alessandro Marchetto</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Empirical Validation of a Web Fault Taxonomy and its usage for Fault Seeding.</title>
+<pages>31-38</pages>
+<year>2007</year>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2007.4380241</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2007.4380241</ee>
+<crossref>conf/wse/2007</crossref>
+<url>db/conf/wse/wse2007.html#MarchettoRT07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/RiccaT06" mdate="2015-09-10">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Detecting Anomaly and Failure in Web Applications.</title>
+<pages>44-51</pages>
+<year>2006</year>
+<volume>13</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1109/MMUL.2006.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MMUL.2006.26</ee>
+<url>db/journals/ieeemm/ieeemm13.html#RiccaT06</url>
+</article>
+</r>
+<r><article key="journals/ijwis/GirardiRT06" mdate="2011-09-30">
+<author>Christian Girardi</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Web crawlers compared.</title>
+<pages>85-94</pages>
+<year>2006</year>
+<volume>2</volume>
+<journal>IJWIS</journal>
+<number>2</number>
+<url>db/journals/ijwis/ijwis2.html#GirardiRT06</url>
+<ee>http://dx.doi.org/10.1108/17440080680000104</ee>
+</article>
+</r>
+<r><article key="journals/scp/AntoniolKT06" mdate="2006-11-22">
+<author>Giuliano Antoniol</author>
+<author>Jens Krinke</author>
+<author>Paolo Tonella</author>
+<title>Special issue on Source code analysis and manipulation.</title>
+<pages>205-208</pages>
+<year>2006</year>
+<volume>62</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1016/j.scico.2006.04.009</ee>
+<url>db/journals/scp/scp62.html#AntoniolKT06</url>
+</article>
+</r>
+<r><article key="journals/smr/TonellaRPG06" mdate="2007-01-11">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<title>Automatic support for the alignment of multilingual Web sites.</title>
+<pages>153-179</pages>
+<year>2006</year>
+<volume>18</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1002/smr.323</ee>
+<url>db/journals/smr/smr18.html#TonellaRPG06</url>
+</article>
+</r>
+<r><article key="journals/sqj/CeccatoMMMTT06" mdate="2007-11-04">
+<author>Mariano Ceccato</author>
+<author>Marius Marin</author>
+<author>Kim Mens</author>
+<author>Leon Moonen</author>
+<author>Paolo Tonella</author>
+<author>Tom Tourw&#233;</author>
+<title>Applying and combining three different aspect Mining Techniques.</title>
+<pages>209-231</pages>
+<year>2006</year>
+<volume>14</volume>
+<journal>Software Quality Journal</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1007/s11219-006-9217-3</ee>
+<url>db/journals/sqj/sqj14.html#CeccatoMMMTT06</url>
+</article>
+</r>
+<r><article key="journals/tse/BinkleyCHRT06" mdate="2015-12-10">
+<author>David Binkley</author>
+<author>Mariano Ceccato</author>
+<author>Mark Harman</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Tool-Supported Refactoring of Existing Object-Oriented Code into Aspects.</title>
+<pages>698-717</pages>
+<year>2006</year>
+<volume>32</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>9</number>
+<ee>http://dx.doi.org/10.1109/TSE.2006.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2006.95</ee>
+<url>db/journals/tse/tse32.html#BinkleyCHRT06</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/TonellaAS06" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Paolo Avesani</author>
+<author>Angelo Susi</author>
+<title>Using the Case-Based Ranking Methodology for Test Case Prioritization.</title>
+<pages>123-133</pages>
+<year>2006</year>
+<crossref>conf/icsm/2006</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2006.74</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2006.74</ee>
+<url>db/conf/icsm/icsm2006.html#TonellaAS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/McMinnHBT06" mdate="2006-12-06">
+<author>Phil McMinn</author>
+<author>Mark Harman</author>
+<author>David Binkley</author>
+<author>Paolo Tonella</author>
+<title>The species per path approach to SearchBased test data generation.</title>
+<pages>13-24</pages>
+<year>2006</year>
+<crossref>conf/issta/2006</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/1146238.1146241</ee>
+<url>db/conf/issta/issta2006.html#McMinnHBT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/HarmanBT06" mdate="2015-04-14">
+<author>Mark Harman</author>
+<author>Sue Black</author>
+<author>Paolo Tonella</author>
+<title>Workshop Introduction Astrenet Aspect Analysis.</title>
+<pages>323</pages>
+<year>2006</year>
+<crossref>conf/wcre/2006</crossref>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2006.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2006.56</ee>
+<url>db/conf/wcre/wcre2006.html#HarmanBT06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/RiccaPTTC06" mdate="2016-05-27">
+<author>Filippo Ricca</author>
+<author>Massimiliano Di Penta</author>
+<author>Marco Torchiano</author>
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>An empirical study on the usefulness of Conallen's stereotypes inWeb application comprehension.</title>
+<pages>58-68</pages>
+<year>2006</year>
+<crossref>conf/wse/2006</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2006.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2006.3</ee>
+<url>db/conf/wse/wse2006.html#RiccaPTTC06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal publication" key="journals/corr/abs-cs-0607006" mdate="2011-12-05">
+<author>Mariano Ceccato</author>
+<author>Marius Marin</author>
+<author>Kim Mens</author>
+<author>Leon Moonen</author>
+<author>Paolo Tonella</author>
+<author>Tom Tourw&#233;</author>
+<title>Applying and Combining Three Different Aspect Mining Techniques</title>
+<ee>http://arxiv.org/abs/cs/0607006</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0607006</volume>
+<url>db/journals/corr/corr0607.html#abs-cs-0607006</url>
+</article>
+</r>
+<r><book key="series/mcs/TonellaP05" mdate="2015-01-12">
+<author>Paolo Tonella</author>
+<author>Alessandra Potrich</author>
+<title>Reverse Engineering of Object Oriented Code</title>
+<year>2005</year>
+<pages>1-173</pages>
+<publisher>Springer</publisher>
+<series href="db/series/mcs/index.html">Monographs in Computer Science</series>
+<isbn>978-0-387-40295-6</isbn>
+<isbn>978-0-387-23803-6</isbn>
+<ee>http://dx.doi.org/10.1007/b102522</ee>
+</book>
+</r>
+<r><article key="journals/ase/TonellaR05" mdate="2006-01-23">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>Web Application Slicing in Presence of Dynamic Code Generation.</title>
+<pages>259-288</pages>
+<year>2005</year>
+<volume>12</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1007/s10515-005-6208-8</ee>
+<url>db/journals/ase/ase12.html#TonellaR05</url>
+</article>
+</r>
+<r><article key="journals/tse/TonellaC05" mdate="2015-12-10">
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>Refactoring the Aspectizable Interfaces: An Empirical Assessment.</title>
+<pages>819-832</pages>
+<year>2005</year>
+<volume>31</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee>http://dx.doi.org/10.1109/TSE.2005.115</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2005.115</ee>
+<url>db/journals/tse/tse31.html#TonellaC05</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/RiccaT05" mdate="2011-10-26">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Anomaly Detection in Web Applications: A Review of Already Conducted Case Studies.</title>
+<pages>385-394</pages>
+<year>2005</year>
+<crossref>conf/csmr/2005</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2005.11</ee>
+<url>db/conf/csmr/csmr2005.html#RiccaT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Tonella05" mdate="2016-05-25">
+<author>Paolo Tonella</author>
+<title>Reverse engineering of object oriented code.</title>
+<pages>724-725</pages>
+<year>2005</year>
+<crossref>conf/icse/2005</crossref>
+<booktitle>ICSE</booktitle>
+<ee>http://doi.acm.org/10.1145/1062455.1062637</ee>
+<ee>http://dx.doi.org/10.1109/ICSE.2005.1553682</ee>
+<url>db/conf/icse/icse2005.html#Tonella05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/BinkleyCHRT05" mdate="2015-06-10">
+<author>David Binkley</author>
+<author>Mariano Ceccato</author>
+<author>Mark Harman</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Automated Refactoring of Object Oriented Code into Aspects.</title>
+<pages>27-36</pages>
+<year>2005</year>
+<crossref>conf/icsm/2005</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2005.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2005.27</ee>
+<url>db/conf/icsm/icsm2005.html#BinkleyCHRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isese/TorchianoRT05" mdate="2015-04-21">
+<author>Marco Torchiano</author>
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>A comparative study on the re-documentation of existing software: code annotations vs. drawing editors.</title>
+<pages>277-286</pages>
+<year>2005</year>
+<crossref>conf/isese/2005</crossref>
+<booktitle>ISESE</booktitle>
+<ee>http://dx.doi.org/10.1109/ISESE.2005.1541836</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISESE.2005.1541836</ee>
+<url>db/conf/isese/isese2005.html#TorchianoRT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/CeccatoMMMTT05" mdate="2014-11-07">
+<author>Mariano Ceccato</author>
+<author>Marius Marin</author>
+<author>Kim Mens</author>
+<author>Leon Moonen</author>
+<author>Paolo Tonella</author>
+<author>Tom Tourw&#233;</author>
+<title>A Qualitative Comparison of Three Aspect Mining Techniques.</title>
+<pages>13-22</pages>
+<year>2005</year>
+<crossref>conf/iwpc/2005</crossref>
+<booktitle>IWPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.2005.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WPC.2005.2</ee>
+<url>db/conf/iwpc/iwpc2005.html#CeccatoMMMTT05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/step/Tonella05" mdate="2016-05-12">
+<author>Paolo Tonella</author>
+<title>Workshop on Empirical Studies in Reverse Engineering.</title>
+<pages>61-64</pages>
+<year>2005</year>
+<crossref>conf/step/2005</crossref>
+<booktitle>STEP</booktitle>
+<ee>http://dx.doi.org/10.1109/STEP.2005.36</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/STEP.2005.36</ee>
+<url>db/conf/step/step2005.html#Tonella05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/RiccaT05" mdate="2016-05-27">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Web Testing: a Roadmap for the Empirical Research.</title>
+<pages>63-70</pages>
+<year>2005</year>
+<crossref>conf/wse/2005</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2005.23</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2005.23</ee>
+<url>db/conf/wse/wse2005.html#RiccaT05</url>
+</inproceedings>
+</r>
+<r><article key="journals/smr/BoldyreffT04" mdate="2004-08-27">
+<author>Cornelia Boldyreff</author>
+<author>Paolo Tonella</author>
+<title>Web Site Evolution.</title>
+<pages>1-4</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>1-2</number>
+<ee>http://dx.doi.org/10.1002/smr.280</ee>
+<url>db/journals/smr/smr16.html#BoldyreffT04</url>
+</article>
+</r>
+<r><article key="journals/smr/TonellaR04" mdate="2004-08-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>Statistical testing of Web applications.</title>
+<pages>103-127</pages>
+<year>2004</year>
+<volume>16</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>1-2</number>
+<ee>http://dx.doi.org/10.1002/smr.284</ee>
+<url>db/journals/smr/smr16.html#TonellaR04</url>
+</article>
+</r>
+<r><article key="journals/sqj/BinkleyBHT04" mdate="2005-05-02">
+<author>David Binkley</author>
+<author>Liz Burd</author>
+<author>Mark Harman</author>
+<author>Paolo Tonella</author>
+<title>Introduction.</title>
+<pages>293-295</pages>
+<year>2004</year>
+<volume>12</volume>
+<journal>Software Quality Journal</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1023/B:SQJO.0000039789.23291.ee</ee>
+<url>db/journals/sqj/sqj12.html#BinkleyBHT04</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/RiccaTPG04" mdate="2014-07-22">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<title>Experimental Results on the Alignment of Multilingual Web Sites.</title>
+<pages>288-295</pages>
+<year>2004</year>
+<crossref>conf/csmr/2004</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.2004.1281431</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.2004.1281431</ee>
+<url>db/conf/csmr/csmr2004.html#RiccaTPG04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Tonella04" mdate="2016-05-25">
+<author>Paolo Tonella</author>
+<title>Formal Concept Analysis in Software Engineering.</title>
+<pages>743-744</pages>
+<year>2004</year>
+<crossref>conf/icse/2004</crossref>
+<booktitle>ICSE</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSE.2004.1317515</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2004.1317515</ee>
+<ee>http://dl.acm.org/citation.cfm?id=999497</ee>
+<url>db/conf/icse/icse2004.html#Tonella04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/TonellaC04" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>Migrating Interface Implementation to Aspects.</title>
+<pages>220-229</pages>
+<year>2004</year>
+<crossref>conf/icsm/2004</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2004.1357806</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2004.1357806</ee>
+<url>db/conf/icsm/icsm2004.html#TonellaC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issta/Tonella04" mdate="2006-02-13">
+<author>Paolo Tonella</author>
+<title>Evolutionary testing of classes.</title>
+<pages>119-128</pages>
+<year>2004</year>
+<crossref>conf/issta/2004</crossref>
+<booktitle>ISSTA</booktitle>
+<ee>http://doi.acm.org/10.1145/1007512.1007528</ee>
+<url>db/conf/issta/issta2004.html#Tonella04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/RiccaTGP04" mdate="2014-11-07">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<author>Christian Girardi</author>
+<author>Emanuele Pianta</author>
+<title>An Empirical Study on Keyword-based Web Site Clustering.</title>
+<pages>204-213</pages>
+<year>2004</year>
+<crossref>conf/iwpc/2004</crossref>
+<booktitle>IWPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.2004.1311062</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WPC.2004.1311062</ee>
+<url>db/conf/iwpc/iwpc2004.html#RiccaTGP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/CeccatoT04" mdate="2015-04-15">
+<author>Mariano Ceccato</author>
+<author>Paolo Tonella</author>
+<title>Adding Distribution to Existing Applications by Means of Aspect Oriented Programming.</title>
+<pages>107-116</pages>
+<year>2004</year>
+<crossref>conf/scam/2004</crossref>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2004.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2004.3</ee>
+<url>db/conf/scam/scam2004.html#CeccatoT04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/TonellaC04" mdate="2015-04-14">
+<author>Paolo Tonella</author>
+<author>Mariano Ceccato</author>
+<title>Aspect Mining through the Formal Concept Analysis of Execution Traces.</title>
+<pages>112-121</pages>
+<year>2004</year>
+<crossref>conf/wcre/2004</crossref>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.2004.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.2004.13</ee>
+<url>db/conf/wcre/wcre2004.html#TonellaC04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaR04" mdate="2016-05-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>A 2-Layer Model for the White-Box Testing of Web Applications.</title>
+<pages>11-19</pages>
+<year>2004</year>
+<crossref>conf/wse/2004</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2004.10012</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2004.10012</ee>
+<url>db/conf/wse/wse2004.html#TonellaR04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/GiraudoT03" mdate="2003-04-30">
+<author>Griselda Giraudo</author>
+<author>Paolo Tonella</author>
+<title>Designing and Conducting an Empirical Study on Test Management Automation.</title>
+<pages>59-81</pages>
+<year>2003</year>
+<volume>8</volume>
+<journal>Empirical Software Engineering</journal>
+<number>1</number>
+<url>db/journals/ese/ese8.html#GiraudoT03</url>
+</article>
+</r>
+<r><article key="journals/tse/Tonella03" mdate="2015-12-10">
+<author>Paolo Tonella</author>
+<title>Using a Concept Lattice of Decomposition Slices for Program Understanding and Impact Analysis.</title>
+<pages>495-509</pages>
+<year>2003</year>
+<volume>29</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee>http://dx.doi.org/10.1109/TSE.2003.1205178</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.2003.1205178</ee>
+<url>db/journals/tse/tse29.html#Tonella03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/TonellaP03" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Alessandra Potrich</author>
+<title>Reverse Engineering of the Interaction Diagrams from C++ Code.</title>
+<pages>159-168</pages>
+<year>2003</year>
+<crossref>conf/icsm/2003</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2003.1235418</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2003.1235418</ee>
+<url>db/conf/icsm/icsm2003.html#TonellaP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/RiccaT03" mdate="2014-11-07">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Using Clustering to Support the Migration from Static to Dynamic Web Pages.</title>
+<pages>207-216</pages>
+<year>2003</year>
+<crossref>conf/iwpc/2003</crossref>
+<booktitle>IWPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.2003.1199204</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WPC.2003.1199204</ee>
+<url>db/conf/iwpc/iwpc2003.html#RiccaT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaRPGLFT03" mdate="2016-05-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<author>Giuseppe A. Di Lucca</author>
+<author>Anna Rita Fasolino</author>
+<author>Porfirio Tramontana</author>
+<title>Evaluation Methods for Web Application Clustering.</title>
+<pages>33-40</pages>
+<year>2003</year>
+<crossref>conf/wse/2003</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2003.1234006</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2003.1234006</ee>
+<url>db/conf/wse/wse2003.html#TonellaRPGLFT03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaRPG03" mdate="2016-05-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<title>Using Keyword Extraction for Web Site Clustering.</title>
+<pages>41-48</pages>
+<year>2003</year>
+<crossref>conf/wse/2003</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2003.1234007</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2003.1234007</ee>
+<url>db/conf/wse/wse2003.html#TonellaRPG03</url>
+</inproceedings>
+</r>
+<r><article key="journals/ansoft/RiccaT02" mdate="2011-05-18">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Testing Processes of Web Applications.</title>
+<pages>93-114</pages>
+<year>2002</year>
+<volume>14</volume>
+<journal>Ann. Software Eng.</journal>
+<number>1-4</number>
+<url>db/journals/ansoft/ansoft14.html#RiccaT02</url>
+<ee>http://dx.doi.org/10.1023/A:1020549507418</ee>
+</article>
+</r>
+<r><article key="journals/infsof/RiccaTB02" mdate="2011-11-30">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<author>Ira D. Baxter</author>
+<title>Web application transformations based on rewrite rules.</title>
+<pages>811-825</pages>
+<year>2002</year>
+<volume>44</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>13</number>
+<url>db/journals/infsof/infsof44.html#RiccaTB02</url>
+<ee>http://dx.doi.org/10.1016/S0950-5849(02)00125-8</ee>
+</article>
+</r>
+<r><article key="journals/scp/TonellaP02" mdate="2011-08-30">
+<author>Paolo Tonella</author>
+<author>Alessandra Potrich</author>
+<title>Cjj: a subset of C++ compliant with Java.</title>
+<pages>229-271</pages>
+<year>2002</year>
+<volume>42</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>2-3</number>
+<url>db/journals/scp/scp42.html#TonellaP02</url>
+<ee>http://dx.doi.org/10.1016/S0167-6423(01)00019-3</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/TonellaP02" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Alessandra Potrich</author>
+<title>Static and Dynamic C++ Code Analysis for the Recovery of the Object Diagram.</title>
+<pages>54-63</pages>
+<year>2002</year>
+<crossref>conf/icsm/2002</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2002.1167747</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2002.1167747</ee>
+<url>db/conf/icsm/icsm2002.html#TonellaP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/TonellaRPG02" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<title>Restructuring Multilingual Web Sites.</title>
+<pages>290-299</pages>
+<year>2002</year>
+<crossref>conf/icsm/2002</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2002.1167784</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2002.1167784</ee>
+<url>db/conf/icsm/icsm2002.html#TonellaRPG02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/RiccaT02" mdate="2015-04-15">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Construction of the System Dependence Graph for Web Application Slicing.</title>
+<pages>123-132</pages>
+<year>2002</year>
+<crossref>conf/scam/2002</crossref>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2002.1134112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2002.1134112</ee>
+<url>db/conf/scam/scam2002.html#RiccaT02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaR02" mdate="2016-05-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<title>Dynamic Model Extraction and Statistical Analysis of Web Applications.</title>
+<pages>43-52</pages>
+<year>2002</year>
+<crossref>conf/wse/2002</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2002.1134088</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2002.1134088</ee>
+<url>db/conf/wse/wse2002.html#TonellaR02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/RiccaT01" mdate="2015-09-10">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Understanding and Restructuring Web Sites with ReWeb.</title>
+<pages>40-51</pages>
+<year>2001</year>
+<volume>8</volume>
+<journal>IEEE MultiMedia</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1109/93.917970</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/93.917970</ee>
+<url>db/journals/ieeemm/ieeemm8.html#RiccaT01</url>
+</article>
+</r>
+<r><article key="journals/infsof/CalzolariTA01" mdate="2011-11-30">
+<author>F. Calzolari</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Maintenance and testing effort modeled by linear and nonlinear dynamic systems.</title>
+<pages>477-486</pages>
+<year>2001</year>
+<volume>43</volume>
+<journal>Information &#38; Software Technology</journal>
+<number>8</number>
+<url>db/journals/infsof/infsof43.html#CalzolariTA01</url>
+<ee>http://dx.doi.org/10.1016/S0950-5849(01)00156-2</ee>
+</article>
+</r>
+<r><article key="journals/scp/AntoniolCPT01" mdate="2011-08-30">
+<author>Giuliano Antoniol</author>
+<author>Bruno Caprile</author>
+<author>Alessandra Potrich</author>
+<author>Paolo Tonella</author>
+<title>Design-code traceability recovery: selecting the basic linkage properties.</title>
+<pages>213-234</pages>
+<year>2001</year>
+<volume>40</volume>
+<journal>Sci. Comput. Program.</journal>
+<number>2-3</number>
+<url>db/journals/scp/scp40.html#AntoniolCPT01</url>
+<ee>http://dx.doi.org/10.1016/S0167-6423(01)00016-8</ee>
+</article>
+</r>
+<r><article key="journals/smr/TonellaA01" mdate="2012-04-14">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Inference of object-oriented design patterns.</title>
+<pages>309-330</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>5</number>
+<url>db/journals/smr/smr13.html#TonellaA01</url>
+<ee>http://dx.doi.org/10.1002/smr.235</ee>
+</article>
+</r>
+<r><article key="journals/tse/Tonella01" mdate="2015-12-10">
+<author>Paolo Tonella</author>
+<title>Concept Analysis for Module Restructuring.</title>
+<pages>351-363</pages>
+<year>2001</year>
+<volume>27</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1109/32.917524</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/32.917524</ee>
+<url>db/journals/tse/tse27.html#Tonella01</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/RiccaT01" mdate="2015-08-07">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Analysis and Testing of Web Applications.</title>
+<pages>25-34</pages>
+<year>2001</year>
+<crossref>conf/icse/2001</crossref>
+<booktitle>ICSE</booktitle>
+<url>db/conf/icse/icse2001.html#RiccaT01</url>
+<ee>http://dx.doi.org/10.1109/ICSE.2001.919078</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSE.2001.919078</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/RiccaT01" mdate="2015-06-10">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Web Application Slicing.</title>
+<pages>148-157</pages>
+<year>2001</year>
+<crossref>conf/icsm/2001</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2001.972725</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2001.972725</ee>
+<url>db/conf/icsm/icsm2001.html#RiccaT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/TonellaP01" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Alessandra Potrich</author>
+<title>Reverse Engineering of the UML Class Diagram from C++ Code in Presence of Weakly Typed Containers.</title>
+<pages>376-385</pages>
+<year>2001</year>
+<crossref>conf/icsm/2001</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2001.972750</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2001.972750</ee>
+<url>db/conf/icsm/icsm2001.html#TonellaP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/RiccaTB01" mdate="2015-04-15">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<author>Ira D. Baxter</author>
+<title>Restructuring Web Applications via Transformation Rules.</title>
+<pages>152-162</pages>
+<year>2001</year>
+<crossref>conf/scam/2001</crossref>
+<booktitle>SCAM</booktitle>
+<ee>http://dx.doi.org/10.1109/SCAM.2001.972676</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SCAM.2001.972676</ee>
+<url>db/conf/scam/scam2001.html#RiccaTB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tacas/RiccaT01" mdate="2011-06-27">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Building a Tool for the Analysis and Testing of Web Applications: Problems and Solutions.</title>
+<pages>373-388</pages>
+<year>2001</year>
+<crossref>conf/tacas/2001</crossref>
+<booktitle>TACAS</booktitle>
+<ee>http://dx.doi.org/10.1007/3-540-45319-9_26</ee>
+<url>db/conf/tacas/tacas2001.html#RiccaT01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wse/TonellaRPG01" mdate="2016-05-27">
+<author>Paolo Tonella</author>
+<author>Filippo Ricca</author>
+<author>Emanuele Pianta</author>
+<author>Christian Girardi</author>
+<title>Recovering Traceability Links in Multilingual Web Sites.</title>
+<pages>14-21</pages>
+<year>2001</year>
+<crossref>conf/wse/2001</crossref>
+<booktitle>WSE</booktitle>
+<ee>http://dx.doi.org/10.1109/WSE.2001.988780</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WSE.2001.988780</ee>
+<url>db/conf/wse/wse2001.html#TonellaRPG01</url>
+</inproceedings>
+</r>
+<r><article key="journals/ansoft/AntoniolCPT00" mdate="2011-05-18">
+<author>Giuliano Antoniol</author>
+<author>Bruno Caprile</author>
+<author>Alessandra Potrich</author>
+<author>Paolo Tonella</author>
+<title>Design-code traceability for object-oriented systems.</title>
+<pages>35-58</pages>
+<year>2000</year>
+<volume>9</volume>
+<journal>Ann. Software Eng.</journal>
+<url>db/journals/ansoft/ansoft9.html#AntoniolCPT00</url>
+<ee>http://dx.doi.org/10.1023/A:1018916522804</ee>
+</article>
+</r>
+<r><article key="journals/spe/TonellaAFC00" mdate="2012-04-14">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>F. Calzolari</author>
+<title>Reverse engineering 4.7 million lines of code.</title>
+<pages>129-150</pages>
+<year>2000</year>
+<volume>30</volume>
+<journal>Softw., Pract. Exper.</journal>
+<number>2</number>
+<url>db/journals/spe/spe30.html#TonellaAFC00</url>
+<ee>http://dx.doi.org/10.1002/(SICI)1097-024X(200002)30:2&#60;129::AID-SPE293&#62;3.0.CO;2-M</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ewspt/CommareGT00" mdate="2011-06-21">
+<author>Giuseppe La Commare</author>
+<author>Griselda Giraudo</author>
+<author>Paolo Tonella</author>
+<title>Test Management Automation: Lessons Learned from a Process Improvement Experiment (Short Paper).</title>
+<pages>156-160</pages>
+<year>2000</year>
+<crossref>conf/ewspt/2000</crossref>
+<booktitle>EWSPT</booktitle>
+<url>db/conf/ewspt/ewspt2000.html#CommareGT00</url>
+<ee>http://dx.doi.org/10.1007/BFb0095025</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/RiccaT00" mdate="2015-06-10">
+<author>Filippo Ricca</author>
+<author>Paolo Tonella</author>
+<title>Web Site Analysis: Structure and Evolution.</title>
+<pages>76-</pages>
+<year>2000</year>
+<crossref>conf/icsm/2000</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2000.883017</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2000.883017</ee>
+<url>db/conf/icsm/icsm2000.html#RiccaT00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/CaprileT00" mdate="2015-06-10">
+<author>Bruno Caprile</author>
+<author>Paolo Tonella</author>
+<title>Restructuring Program Identifier Names.</title>
+<pages>97-107</pages>
+<year>2000</year>
+<crossref>conf/icsm/2000</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.2000.883022</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.2000.883022</ee>
+<url>db/conf/icsm/icsm2000.html#CaprileT00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/FiutemTAM99" mdate="2005-12-14">
+<author>Roberto Fiutem</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Ettore Merlo</author>
+<title>Points-to analysis for program understanding.</title>
+<pages>213-227</pages>
+<year>1999</year>
+<volume>44</volume>
+<journal>Journal of Systems and Software</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1016/S0164-1212(98)10058-4</ee>
+<url>db/journals/jss/jss44.html#FiutemTAM99</url>
+</article>
+</r>
+<r><article key="journals/smr/TonellaAFM99" mdate="2007-02-26">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<title>Variable-precision reaching definitions analysis.</title>
+<pages>117-142</pages>
+<year>1999</year>
+<volume>11</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1002/(SICI)1096-908X(199903/04)11:2&#60;117::AID-SMR185&#62;3.0.CO;2-P</ee>
+<url>db/journals/smr/smr11.html#TonellaAFM99</url>
+</article>
+</r>
+<r><article key="journals/smr/FiutemATM99" mdate="2007-10-31">
+<author>Roberto Fiutem</author>
+<author>Giuliano Antoniol</author>
+<author>Paolo Tonella</author>
+<author>Ettore Merlo</author>
+<title>ART: an architectural reverse engineering environment.</title>
+<pages>339-364</pages>
+<year>1999</year>
+<volume>11</volume>
+<journal>Journal of Software Maintenance</journal>
+<number>5</number>
+<ee>http://dx.doi.org/10.1002/(SICI)1096-908X(199909/10)11:5&#60;339::AID-SMR196&#62;3.0.CO;2-I</ee>
+<url>db/journals/smr/smr11.html#FiutemATM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/csmr/AntoniolCT99" mdate="2014-07-22">
+<author>Giuliano Antoniol</author>
+<author>F. Calzolari</author>
+<author>Paolo Tonella</author>
+<title>Impact of Function Pointers on the Call Graph.</title>
+<pages>51-61</pages>
+<year>1999</year>
+<crossref>conf/csmr/1999</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.1999.756682</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.1999.756682</ee>
+<url>db/conf/csmr/csmr1999.html#AntoniolCT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/Tonella99" mdate="2014-07-22">
+<author>Paolo Tonella</author>
+<title>Effects of Different Flow Insensitive Points-to Analyses on DEF/USE Sets.</title>
+<pages>62-71</pages>
+<year>1999</year>
+<crossref>conf/csmr/1999</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.1999.756683</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.1999.756683</ee>
+<url>db/conf/csmr/csmr1999.html#Tonella99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/LapierreMSAFT99" mdate="2015-06-10">
+<author>S&#233;bastien Lapierre</author>
+<author>Ettore Merlo</author>
+<author>Gilles Savard</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Paolo Tonella</author>
+<title>Automatic Unit Test Data Generation Using Mixed-Integer Linear Programming and Execution Trees.</title>
+<pages>189-198</pages>
+<year>1999</year>
+<crossref>conf/icsm/1999</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1999.792607</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1999.792607</ee>
+<url>db/conf/icsm/icsm1999.html#LapierreMSAFT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/TonellaA99" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Object-Oriented Design Pattern Inference.</title>
+<pages>230-</pages>
+<year>1999</year>
+<crossref>conf/icsm/1999</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1999.792619</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1999.792619</ee>
+<url>db/conf/icsm/icsm1999.html#TonellaA99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/AntoniolPTF99" mdate="2014-11-07">
+<author>Giuliano Antoniol</author>
+<author>Alessandra Potrich</author>
+<author>Paolo Tonella</author>
+<author>Roberto Fiutem</author>
+<title>Evolving Object Oriented Design to Improve Code Traceability.</title>
+<pages>151-160</pages>
+<year>1999</year>
+<crossref>conf/iwpc/1999</crossref>
+<booktitle>IWPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.1999.777754</ee>
+<url>db/conf/iwpc/iwpc1999.html#AntoniolPTF99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/CaprileT99" mdate="2015-04-14">
+<author>Bruno Caprile</author>
+<author>Paolo Tonella</author>
+<title>Nomen Est Omen: Analyzing the Language of Function Identifiers.</title>
+<pages>112-122</pages>
+<year>1999</year>
+<crossref>conf/wcre/1999</crossref>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.1999.806952</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.1999.806952</ee>
+<url>db/conf/wcre/wcre1999.html#CaprileT99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/CalzolariTA98" mdate="2014-07-22">
+<author>F. Calzolari</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Modeling Maintenance Effort by Means of Dynamic Systems.</title>
+<pages>150-156</pages>
+<year>1998</year>
+<crossref>conf/csmr/1998</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.1998.665787</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.1998.665787</ee>
+<url>db/conf/csmr/csmr1998.html#CalzolariTA98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/CalzolariT98" mdate="2016-02-17">
+<author>F. Calzolari</author>
+<author>Paolo Tonella</author>
+<title>Modeling Client/Server Interactions by Means of Dynamic Systems.</title>
+<pages>20499-20505</pages>
+<year>1998</year>
+<crossref>conf/euromicro/1998</crossref>
+<booktitle>EUROMICRO</booktitle>
+<ee>http://dx.doi.org/10.1109/EURMIC.1998.708063</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EURMIC.1998.708063</ee>
+<url>db/conf/euromicro/euromicro1998.html#CalzolariT98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/CalzolariTA98" mdate="2015-06-10">
+<author>F. Calzolari</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<title>Dynamic Model for Maintenance and Testing Effort.</title>
+<pages>104-112</pages>
+<year>1998</year>
+<crossref>conf/icsm/1998</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1998.738498</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1998.738498</ee>
+<url>db/conf/icsm/icsm1998.html#CalzolariTA98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/Tonella98" mdate="2015-06-10">
+<author>Paolo Tonella</author>
+<title>Using the O-A Diagram to Encapsulate Dynamic Memory Access.</title>
+<pages>326-335</pages>
+<year>1998</year>
+<crossref>conf/icsm/1998</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1998.738524</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1998.738524</ee>
+<url>db/conf/icsm/icsm1998.html#Tonella98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csmr/TonellaAFM97" mdate="2014-07-22">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<title>Variable Precision Reaching Definitions Analysis for Software Maintenance.</title>
+<pages>60-67</pages>
+<year>1997</year>
+<crossref>conf/csmr/1997</crossref>
+<booktitle>CSMR</booktitle>
+<ee>http://dx.doi.org/10.1109/CSMR.1997.583007</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSMR.1997.583007</ee>
+<url>db/conf/csmr/csmr1997.html#TonellaAFM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TonellaAFM97" mdate="2012-05-14">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<title>Flow Insensitive C++ Pointers and Polymorphism Analysis and its Application to Slicing.</title>
+<pages>433-443</pages>
+<year>1997</year>
+<crossref>conf/icse/1997</crossref>
+<booktitle>ICSE</booktitle>
+<ee>http://doi.acm.org/10.1145/253228.253371</ee>
+<url>db/conf/icse/icse97.html#TonellaAFM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/AntoniolFLTZM97" mdate="2012-10-18">
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>G. Lutteri</author>
+<author>Paolo Tonella</author>
+<author>S. Zanfei</author>
+<author>Ettore Merlo</author>
+<title>Program Understanding and Maintenance with the CANTO Environment.</title>
+<pages>72-</pages>
+<year>1997</year>
+<crossref>conf/icsm/1997</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1997.624233</ee>
+<url>db/conf/icsm/icsm1997.html#AntoniolFLTZM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/TonellaAFM97" mdate="2014-11-07">
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<title>Points-to Analysis for Program Understanding.</title>
+<pages>90-99</pages>
+<year>1997</year>
+<crossref>conf/iwpc/1997</crossref>
+<booktitle>WPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.1997.601271</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WPC.1997.601271</ee>
+<url>db/conf/iwpc/wpc1997.html#TonellaAFM97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/FiutemTAM96" mdate="2015-06-10">
+<author>Roberto Fiutem</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Ettore Merlo</author>
+<title>A Cliche'-Based Environment to Support Architectural Reverse Engineering.</title>
+<pages>319-328</pages>
+<year>1996</year>
+<crossref>conf/icsm/1996</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1996.565035</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1996.565035</ee>
+<url>db/conf/icsm/icsm1996.html#FiutemTAM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/FiutemMAT96" mdate="2014-11-07">
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<author>Giuliano Antoniol</author>
+<author>Paolo Tonella</author>
+<title>Understanding the architecture of software systems.</title>
+<pages>187-</pages>
+<year>1996</year>
+<crossref>conf/iwpc/1996</crossref>
+<booktitle>WPC</booktitle>
+<ee>http://dx.doi.org/10.1109/WPC.1996.501133</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WPC.1996.501133</ee>
+<url>db/conf/iwpc/wpc1996.html#FiutemMAT96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/TonellaFAM96" mdate="2015-04-14">
+<author>Paolo Tonella</author>
+<author>Roberto Fiutem</author>
+<author>Giuliano Antoniol</author>
+<author>Ettore Merlo</author>
+<title>Augmenting Pattern-Based Architectural Recovery with Flow Analysis: Mosaic -A Case Study.</title>
+<pages>198-207</pages>
+<year>1996</year>
+<crossref>conf/wcre/1996</crossref>
+<booktitle>WCRE</booktitle>
+<ee>http://dx.doi.org/10.1109/WCRE.1996.558904</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.1996.558904</ee>
+<url>db/conf/wcre/wcre1996.html#TonellaFAM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/FiutemTAM96" mdate="2015-04-14">
+<author>Roberto Fiutem</author>
+<author>Paolo Tonella</author>
+<author>Giuliano Antoniol</author>
+<author>Ettore Merlo</author>
+<title>A Cliche-Based Environment to Support Architectural Reverse Engineering.</title>
+<pages>277-286</pages>
+<year>1996</year>
+<crossref>conf/wcre/1996</crossref>
+<booktitle>WCRE</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WCRE.1996.558936</ee>
+<url>db/conf/wcre/wcre1996.html#FiutemTAM96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/AntoniolFMT95" mdate="2015-06-10">
+<author>Giuliano Antoniol</author>
+<author>Roberto Fiutem</author>
+<author>Ettore Merlo</author>
+<author>Paolo Tonella</author>
+<title>Application and user interface migration from BASIC to Visual C++.</title>
+<pages>76-</pages>
+<year>1995</year>
+<crossref>conf/icsm/1995</crossref>
+<booktitle>ICSM</booktitle>
+<ee>http://dx.doi.org/10.1109/ICSM.1995.526529</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICSM.1995.526529</ee>
+<url>db/conf/icsm/icsm1995.html#AntoniolFMT95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmc/PoliT93" mdate="2016-02-09">
+<author>Giovanni De Poli</author>
+<author>Paolo Tonella</author>
+<title>Self-organizing Neural Network and Grey's Timbre Space.</title>
+<year>1993</year>
+<booktitle>ICMC</booktitle>
+<ee>http://hdl.handle.net/2027/spo.bbp2372.1993.055</ee>
+<crossref>conf/icmc/1993</crossref>
+<url>db/conf/icmc/icmc1993.html#PoliT93</url>
+</inproceedings>
+</r>
+<coauthors n="119" nc="2">
+<co c="0"><na f="a/Abebe:Surafel_Lemma">Surafel Lemma Abebe</na></co>
+<co c="0"><na f="a/Alicante:Anita">Anita Alicante</na></co>
+<co c="0"><na f="a/Alshahwan:Nadia">Nadia Alshahwan</na></co>
+<co c="0"><na f="a/Antoniol:Giuliano">Giuliano Antoniol</na></co>
+<co c="0"><na f="a/Arnaoudova:Venera">Venera Arnaoudova</na></co>
+<co c="0"><na f="a/Avesani:Paolo">Paolo Avesani</na></co>
+<co c="0"><na f="b/Baars:Arthur_I=">Arthur I. Baars</na></co>
+<co c="0"><na f="b/Bagnato:Alessandra">Alessandra Bagnato</na></co>
+<co c="0"><na f="b/Barros:M=aacute=rcio_de_Oliveira">M&#225;rcio de Oliveira Barros</na></co>
+<co c="0"><na f="b/Baxter:Ira_D=">Ira D. Baxter</na></co>
+<co c="0"><na f="b/Binkley:David">David Binkley</na></co>
+<co c="0"><na f="b/Black:Sue">Sue Black</na></co>
+<co c="0"><na f="b/Bois:Bart_Du">Bart Du Bois</na></co>
+<co c="0"><na f="b/Boldyreff:Cornelia">Cornelia Boldyreff</na></co>
+<co c="0" n="2"><na f="b/Burd:Elizabeth">Elizabeth Burd</na><na>Liz Burd</na></co>
+<co c="0"><na f="c/Calzolari:F=">F. Calzolari</na></co>
+<co c="0"><na f="c/Caprile:Bruno">Bruno Caprile</na></co>
+<co c="0"><na f="c/Carzaniga:Antonio">Antonio Carzaniga</na></co>
+<co c="0"><na f="c/Ceccato:Mariano">Mariano Ceccato</na></co>
+<co c="0"><na f="c/Clark:David">David Clark</na></co>
+<co c="0"><na f="c/Clerissi:Diego">Diego Clerissi</na></co>
+<co c="0"><na f="c/Collberg:Christian_S=">Christian S. Collberg</na></co>
+<co c="1"><na f="c/Commare:Giuseppe_La">Giuseppe La Commare</na></co>
+<co c="0"><na f="c/Coppens:Bart">Bart Coppens</na></co>
+<co c="0"><na f="c/Corazza:Anna">Anna Corazza</na></co>
+<co c="0"><na f="c/Cordy:James_R=">James R. Cordy</na></co>
+<co c="0" n="2"><na f="d/Dean:Thomas_R=">Thomas R. Dean</na><na>Thomas Roy Dean</na></co>
+<co c="0"><na f="f/Falcarin:Paolo">Paolo Falcarin</na></co>
+<co c="0"><na f="f/Fasolino:Anna_Rita">Anna Rita Fasolino</na></co>
+<co c="0"><na f="f/Fiutem:Roberto">Roberto Fiutem</na></co>
+<co c="0"><na f="f/Francescomarino:Chiara_Di">Chiara Di Francescomarino</na></co>
+<co c="0"><na f="f/Fraser:Gordon">Gordon Fraser</na></co>
+<co c="0"><na f="g/Ghidini:Chiara">Chiara Ghidini</na></co>
+<co c="0"><na f="g/Giachetti:Giovanni">Giovanni Giachetti</na></co>
+<co c="0"><na f="g/Girardi:Christian">Christian Girardi</na></co>
+<co c="1"><na f="g/Giraudo:Griselda">Griselda Giraudo</na></co>
+<co c="0"><na f="g/Goffi:Alberto">Alberto Goffi</na></co>
+<co c="0"><na f="g/Gorla:Alessandra">Alessandra Gorla</na></co>
+<co c="0"><na f="g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Ga&#235;l Gu&#233;h&#233;neuc</na></co>
+<co c="0"><na f="h/Haiduc:Sonia">Sonia Haiduc</na></co>
+<co c="0"><na f="h/Hammoudi:Mouna">Mouna Hammoudi</na></co>
+<co c="0"><na f="h/Harman:Mark">Mark Harman</na></co>
+<co c="0"><na f="h/Hassoun:Youssef">Youssef Hassoun</na></co>
+<co c="0"><na f="j/Jahangirova:Gunel">Gunel Jahangirova</na></co>
+<co c="0"><na f="j/Jia:Yue">Yue Jia</na></co>
+<co c="0"><na f="j/Jin:Wei">Wei Jin</na></co>
+<co c="0"><na f="k/Kellens:Andy">Andy Kellens</na></co>
+<co c="0"><na f="k/Kessler:Fondazione_Bruno">Fondazione Bruno Kessler</na></co>
+<co c="0"><na f="k/Kifetew:Fitsum_Meshesha">Fitsum Meshesha Kifetew</na></co>
+<co c="0"><na f="k/Krinke:Jens">Jens Krinke</na></co>
+<co c="0"><na f="k/Kruse:Peter_M=">Peter M. Kruse</na></co>
+<co c="0"><na f="l/Lakhotia:Kiran">Kiran Lakhotia</na></co>
+<co c="0"><na f="l/Lapierre:S=eacute=bastien">S&#233;bastien Lapierre</na></co>
+<co c="0"><na f="l/Leonardi:Chiara">Chiara Leonardi</na></co>
+<co c="0"><na f="l/Leotta:Maurizio">Maurizio Leotta</na></co>
+<co c="0"><na f="l/Longo:Francesca">Francesca Longo</na></co>
+<co c="0"><na f="l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</na></co>
+<co c="0"><na f="l/Lucia:Andrea_De">Andrea De Lucia</na></co>
+<co c="0"><na f="l/Luck:Michael">Michael Luck</na></co>
+<co c="0"><na f="l/Lutteri:G=">G. Lutteri</na></co>
+<co c="0"><na f="m/Maciel:Rita_Suzana_Pitangueira">Rita Suzana Pitangueira Maciel</na></co>
+<co c="0"><na f="m/Majumdar:Anirban">Anirban Majumdar</na></co>
+<co c="0"><na f="m/Marchetto:Alessandro">Alessandro Marchetto</na></co>
+<co c="0"><na f="m/Marchignoli:Davide">Davide Marchignoli</na></co>
+<co c="0"><na f="m/Marcus:Andrian">Andrian Marcus</na></co>
+<co c="0"><na f="m/Mariani:Leonardo">Leonardo Mariani</na></co>
+<co c="0"><na f="m/Mar=iacute=n:Beatriz">Beatriz Mar&#237;n</na></co>
+<co c="0"><na f="m/Marin:Marius">Marius Marin</na></co>
+<co c="0"><na f="m/Mattavelli:Andrea">Andrea Mattavelli</na></co>
+<co c="0"><na f="m/Matteotti:Cristina">Cristina Matteotti</na></co>
+<co c="0"><na f="m/McMinn:Phil">Phil McMinn</na></co>
+<co c="0"><na f="m/Medini:Soumaya">Soumaya Medini</na></co>
+<co c="0"><na f="m/Mens:Kim">Kim Mens</na></co>
+<co c="0"><na f="m/Merlo:Ettore">Ettore Merlo</na></co>
+<co c="0"><na f="m/Miles:Simon">Simon Miles</na></co>
+<co c="0"><na f="m/Moonen:Leon">Leon Moonen</na></co>
+<co c="0"><na f="n/Nagra:Jasvir">Jasvir Nagra</na></co>
+<co c="0" n="3"><na f="n/Nguyen:Duy_Cu">Duy Cu Nguyen</na><na>Cu D. Nguyen</na><na>Cu Duy Nguyen</na></co>
+<co c="0"><na f="n/Nir=Buchbinder:Yarden">Yarden Nir-Buchbinder</na></co>
+<co c="0"><na f="o/Ofek:Yoram">Yoram Ofek</na></co>
+<co c="0"><na f="o/Oliveto:Rocco">Rocco Oliveto</na></co>
+<co c="0"><na f="o/Orso:Alessandro">Alessandro Orso</na></co>
+<co c="0"><na f="p/Palma:Francis">Francis Palma</na></co>
+<co c="0"><na f="p/Panichella:Annibale">Annibale Panichella</na></co>
+<co c="0"><na f="p/Penta:Massimiliano_Di">Massimiliano Di Penta</na></co>
+<co c="0"><na f="p/Perini:Anna">Anna Perini</na></co>
+<co c="0"><na f="p/Perino:Nicol=ograve=">Nicol&#242; Perino</na></co>
+<co c="0"><na f="p/Pezz=egrave=:Mauro">Mauro Pezz&#232;</na></co>
+<co c="0"><na f="p/Pianta:Emanuele">Emanuele Pianta</na></co>
+<co c="0"><na f="p/Pitangueira:Ant=ocirc=nio_Mauricio">Ant&#244;nio Mauricio Pitangueira</na></co>
+<co c="-1"><na f="p/Poli:Giovanni_De">Giovanni De Poli</na></co>
+<co c="0"><na f="p/Potrich:Alessandra">Alessandra Potrich</na></co>
+<co c="0" n="3"><na f="p/Prasetya:I=_S=_W=_B=">I. S. W. B. Prasetya</na><na>I. S. Wishnu B. Prasetya</na><na>Wishnu Prasetya</na></co>
+<co c="0"><na f="p/Preda:Mila_Dalla">Mila Dalla Preda</na></co>
+<co c="0"><na f="p/Puoskari:Elisa">Elisa Puoskari</na></co>
+<co c="0"><na f="q/Qureshi:Nauman_A=">Nauman A. Qureshi</na></co>
+<co c="0"><na f="r/Ricca:Filippo">Filippo Ricca</na></co>
+<co c="0"><na f="r/Rospocher:Marco">Marco Rospocher</na></co>
+<co c="0"><na f="r/Rothermel:Gregg">Gregg Rothermel</na></co>
+<co c="0"><na f="s/Sabatucci:Luca">Luca Sabatucci</na></co>
+<co c="0"><na f="s/Savard:Gilles">Gilles Savard</na></co>
+<co c="0"><na f="s/Serafini:Luciano">Luciano Serafini</na></co>
+<co c="0"><na f="s/Shehory:Onn">Onn Shehory</na></co>
+<co c="0"><na f="s/Shuler:David">David Shuler</na></co>
+<co c="0"><na f="s/Stocco:Andrea">Andrea Stocco</na></co>
+<co c="0"><na f="s/Susi:Angelo">Angelo Susi</na></co>
+<co c="0"><na f="s/Sutter:Bjorn_De">Bjorn De Sutter</na></co>
+<co c="0"><na f="s/Syst=auml=:Tarja">Tarja Syst&#228;</na></co>
+<co c="0"><na f="t/Tiella:Roberto">Roberto Tiella</na></co>
+<co c="0"><na f="t/Torchiano:Marco">Marco Torchiano</na></co>
+<co c="0"><na f="t/Tourw=eacute=:Tom">Tom Tourw&#233;</na></co>
+<co c="0"><na f="t/Tramontana:Porfirio">Porfirio Tramontana</na></co>
+<co c="0"><na f="v/Villafiorita:Adolfo">Adolfo Villafiorita</na></co>
+<co c="0"><na f="v/Visaggio:Corrado_Aaron">Corrado Aaron Visaggio</na></co>
+<co c="0"><na f="v/Vos:Tanja_E=_J=">Tanja E. J. Vos</na></co>
+<co c="0"><na f="w/Wegener:Joachim">Joachim Wegener</na></co>
+<co c="0"><na f="y/Yoo:Shin">Shin Yoo</na></co>
+<co c="0"><na f="z/Zancanaro:Massimo">Massimo Zancanaro</na></co>
+<co c="0"><na f="z/Zanfei:S=">S. Zanfei</na></co>
+</coauthors>
+</dblpperson>
+
