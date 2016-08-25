@@ -128,7 +128,7 @@
 		if ($location.host() == "localhost") {
 			url = 'http://localhost/~tonella/mysite/';
 		} else {
-			url = 'http://selab.fbk.eu/tonella/';
+			url = 'https://paolo-tonella.github.io/paolo-tonella/';
 		}
 		if ($scope.pub.papers.length == 0) {  
 		   $http.get(url + 'Tonella-Paolo.xml', {
